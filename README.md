@@ -1,7 +1,7 @@
 # DigitalHistory - DRAFT 1 
 
 ## About this Course
-In a rapidly progressing data driven world, data science has become an integral part of nearly every field in the world. This is due to the availability of enormous records of data and our ability to find useful information with it. Although the data science requires a fundamental understanding of mathematics, the tools present in the current era make data analysis data wrangling easy to learn and implement. In this course we will be using the basic esstential tools with which anyone interested in the field can get started. designed to teach students who are in the fields of Arts and Humanities.
+In a rapidly progressing data driven world, data science has become an integral part of nearly every field in the world. This is due to the availability of enormous records of data and our ability to find useful information with it. Although the data science requires a fundamental understanding of mathematics, the tools present in the current era make data analysis data wrangling easy to learn and implement. In this course we will be using the basic esstential tools with which anyone interested in the field can get started. For this course each week we will be going through multiple datasets. Each dataset will focus on specific parts of the data science toolkit. 
 
 ## How to access the materials
 [PENDING]
