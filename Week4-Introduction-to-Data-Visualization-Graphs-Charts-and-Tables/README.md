@@ -21,7 +21,6 @@ For this week our main focus will be to visualize our data when it's loaded in a
 ### Pandas Visualization tools
 
  
-##
 
 ## About the Dataset 
 ### California Housing Information
