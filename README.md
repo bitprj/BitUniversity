@@ -1,3 +1,4 @@
+![Cover Image](photo-1522202176988-66273c2fd55f.jfif)
 # DigitalHistory - DRAFT 1 
 
 ## About this Course
