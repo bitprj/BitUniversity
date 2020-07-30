@@ -24,8 +24,8 @@ Our curriculum is centered around two types of categories:
 |4   |Tutorial    |Introduction to Data Visualization. Graphs, Charts, and Tables    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |         
 |5   |Lab         |Visualizing the Translatlantic Slave Trade                        |[Trans Atlantic Slave Trade](https://www.slavevoyages.org/voyage/database)        |
 |6   |Tutorial    |Advanced Data Wrangling using Pandas                              |[January Flight Delays](https://www.kaggle.com/divyansh22/flight-delay-prediction)|
-|7   |Tutorial    |Intro to Statistical Analysis and Methods                         |                                                                                  |
-|8   |Tutorial    |Statistical Visualization using Seaborn and Pandas                |[Pokemon](https://www.kaggle.com/rounakbanik/pokemon)                             |
+|7   |Tutorial    |Intro to Statistical Analysis and Methods                         |[Campus Recruitment](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)                                                                                  |
+|8   |Tutorial    |Statistical Visualization using Seaborn and Pandas                |[Recent Graduates](https://github.com/ShayanRiyaz/data/blob/master/college-majors/recent-grads.csv)                             |
 |9   |Lab         |Statistical Analysis on the Runaway Slave Dataset                 |[Freedom On the Move](https://freedomonthemove.org/)                              |
 |10  |Tutorial    |Regression Analysis and Correlation using SciKit Learn            |-                                                                                 |
 |11  |Tutorial    |More on SciKit Learn and training datasets                        |-                                                                                 |
