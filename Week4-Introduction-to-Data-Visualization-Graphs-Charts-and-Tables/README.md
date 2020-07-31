@@ -22,7 +22,10 @@ For this week our main focus will be to visualize our data when it's loaded in a
 
  
 
-## About the Dataset 
+## About the Datasets
+
+### Stock Market Index
+
 ### California Housing Information
 
 
