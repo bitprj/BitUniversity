@@ -18,4 +18,6 @@ For this week, we will learn the basics of Python and creating basic programs. B
 ## About the Dataset 
 
 ## For further assistance
-
+- [Python Documentation](https://docs.python.org/3/)
+- [Official Python Tutorial](https://docs.python.org/3/tutorial/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
