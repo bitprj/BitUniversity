@@ -1,4 +1,5 @@
-# DigitalHistory - DRAFT 1 
+![Cover Image](photo-1522202176988-66273c2fd55f.jfif)
+# DigitalHistory - 
 
 ## About this Course
 In a rapidly progressing data driven world, data science has become an integral part of nearly every field in the world. This is due to the availability of enormous records of data and our ability to find useful information with it. Although the data science requires a fundamental understanding of mathematics, the tools present in the current era make data analysis data wrangling easy to learn and implement. In this course we will be using the basic esstential tools with which anyone interested in the field can get started. For this course each week we will be going through multiple datasets. Each dataset will focus on specific parts of the data science toolkit. 
@@ -23,8 +24,8 @@ Our curriculum is centered around two types of categories:
 |4   |Tutorial    |Introduction to Data Visualization. Graphs, Charts, and Tables    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |         
 |5   |Lab         |Visualizing the Translatlantic Slave Trade                        |[Trans Atlantic Slave Trade](https://www.slavevoyages.org/voyage/database)        |
 |6   |Tutorial    |Advanced Data Wrangling using Pandas                              |[January Flight Delays](https://www.kaggle.com/divyansh22/flight-delay-prediction)|
-|7   |Tutorial    |Intro to Statistical Analysis and Methods                         |                                                                                  |
-|8   |Tutorial    |Statistical Visualization using Seaborn and Pandas                |[Pokemon](https://www.kaggle.com/rounakbanik/pokemon)                             |
+|7   |Tutorial    |Intro to Statistical Analysis and Methods                         |[Campus Recruitment](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)                                                                                  |
+|8   |Tutorial    |Statistical Visualization using Seaborn and Pandas                |[Recent Graduates](https://github.com/ShayanRiyaz/data/blob/master/college-majors/recent-grads.csv)                             |
 |9   |Lab         |Statistical Analysis on the Runaway Slave Dataset                 |[Freedom On the Move](https://freedomonthemove.org/)                              |
 |10  |Tutorial    |Regression Analysis and Correlation using SciKit Learn            |-                                                                                 |
 |11  |Tutorial    |More on SciKit Learn and training datasets                        |-                                                                                 |
