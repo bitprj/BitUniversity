@@ -1,3 +1,5 @@
+[Ship](ship.jpg)
+
 # Visualizing the Transatlantic Slave Trade
 
 ## Lab Methodoloy
@@ -50,5 +52,7 @@ The details of the more than 36,000 voyages presented here greatly facilitate th
 
 
 ## Resources
+
+- [Brookes](https://en.wikipedia.org/wiki/Brookes_(ship))
 
 
