@@ -1,4 +1,5 @@
-# Introduction to Data Visualization
+# Statistical Visualization with Seaborn
+
 ## Recap
 By this point we have looked into some important steps such as:
 - Opening a google co-lab notebook.
