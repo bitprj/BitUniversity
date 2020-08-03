@@ -1,11 +1,13 @@
+![Ship](ship.jpg)
+
 # Visualizing the Transatlantic Slave Trade
 
-## Labs and Methodoloy
-Congratulations you have made it to the first lab of this course. The ideas of these labs is to help you apply the Data Science pipeline in a project based environment. You will be using the tools taught to you in the previous modules and adopt and Question and Answer based approach when you work with the dataset.
-We have divided our approach into 4 parts:
-- The first part is the traditonal set up every. data scientist should do before modifying the dataset.
+## Lab Methodoloy
+Congratulations you have made it to the first lab of this course. The focus of these labs is to help you learn and apply a structured approach when working on project. You will be using the tools such as ```pandas```, ```matplotlib``` and ```NumPy``` To explore the dataset. 
+For this we will divide our approach into 4 parts:
+- The first part is the traditonal set up every data scientist has to do when starting a project. These inlude loading datasets, observing the basic numerical analysis of the dataset. 
 - The second part involves clearning the the dataset and choosing columns that fit our methdology.
-- The third part involves futher splitting our cleaned dataframe into smaller dataframes and visualiztion them.
+- The third part involves futher splitting our cleaned dataframe into smaller dataframes and visualizing them.
 - Finally, the fourth part involves summarizing our conclusion.
 
 ## Recap
@@ -34,32 +36,15 @@ The details of the more than 36,000 voyages presented here greatly facilitate th
 
 #### Facts about the dataset
 
-- The dataset approximatey 36,110 trans-Atlantic voyages.
+- The dataset approximately 36,110 trans-Atlantic voyages.
 - The estimates suggest around 12,520,000 captives departed Afriva to the Americas. 
 
 - Not all 36,000 voyages in the database carried slaves from Africa.
 - A total of 633 voyages (1.8%) never reached the African coast because they were lost at sea, captured or suffered some other misfortune. 
 - The database also contains records of 34,106 voyages that disembarked slaves, or could have done so (in other words, for some of these we do not know the outcome of the voyage).
-
 - The latter group comprised mainly ships captured in the nineteenth century which were taken to Sierra Leone and St. Helena as part of the attempt to suppress the trade. 
 
 ## Learning Objectives
-For this week our main focus will be to visualize our data when it's loaded in a Pandas DataFrame. For this we will be using **matplotlib** and **pandas**. You are familiar with pandas by now but matplotlib is new to you. Therefore, understanding and using the tools provided through matplotlib will be our main focus. By the end of the week you wil be able to implement the following ```commands```:
-- Understand how  ```pyplot``` works and how to you can make customized plots using it.
-- Use ```pandas``` to plot your dataFrame and map columns in the form of useful visualizations.
-- Learn how to load and use Time-Series data using Pandas ```pd.read_csv```
-- Use the 'Stock market data' to learn how to plot basic graphs and making them readable by adding:
-  - colors
-  - markers
-  - linestyles
-  - labels
-  - ticks
-  - legends
-- Use ```matplotlib``` to create bar plots,line charts and scatter plots.
-- Loading and Examining the California Housing dataset and mapping geo-location data:
-  - Visualizing the distribution of median income of home owners in California.
-  - Comparing the median income with the price of the houses.
-  - Find Dense clusters using visualization techniques.
 
 ## About the Libraries
 
@@ -67,5 +52,7 @@ For this week our main focus will be to visualize our data when it's loaded in a
 
 
 ## Resources
+
+- [Brookes](https://en.wikipedia.org/wiki/Brookes_(ship))
 
 
