@@ -1,4 +1,4 @@
-[Ship](ship.jpg)
+![Ship](ship.jpg)
 
 # Visualizing the Transatlantic Slave Trade
 
