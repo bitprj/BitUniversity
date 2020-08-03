@@ -1,5 +1,4 @@
-# Introduction to Data Visualization - DRAFT 2
-
+# Introduction to Data Visualization
 ## Recap
 By this point we have looked into some important steps such as:
 - Opening a google co-lab notebook.
