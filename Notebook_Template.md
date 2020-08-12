@@ -12,6 +12,7 @@ Before following the structure there are some important notes to keep in mind:
 
 
 # Topic Name
+- Recap
 - Where, How and When we use the ```library```.
 - What we will be learning today.
   - About the Dataset
@@ -26,8 +27,8 @@ Before following the structure there are some important notes to keep in mind:
   - function n
     - 4. **Now Try This**
 - Tutorial
-- Resources
 - Homework
+- Resources
 - Appendix
     
   
