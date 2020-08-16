@@ -1,4 +1,4 @@
-```Week 1: Introduction README
+Week 1: Introduction README
 
 This is the introductory material for Bit Project’s Digital History course curriculum. This week’s material will cover the accessibility and navigational walkthrough for the tutorials and labs used in this course.
 
