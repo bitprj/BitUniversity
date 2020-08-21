@@ -1,4 +1,8 @@
-# Statistical Visualization with Seaborn
+<p align="center">
+<img src="assets/statistical-visualization-readme.png">
+</p>
+
+# <div align="center">Statistical Visualization with Seaborn and Pandas</div>
 
 ## Recap
 By this point we have looked into some important steps such as:
@@ -7,8 +11,32 @@ By this point we have looked into some important steps such as:
 - Loading datasets (.csv files).
 - Observing datasets as pandas DataFrame.
 
-## About the Datasets
+## Learning Objectives
+For this week we willl be focusing on the following goals:
+- We will use visualization as an analysis tool instead of using Pandas DataFrame 
+- Check if the tips recieved by a waiter are dependent on the other factors such as
+    - Sex
+    - day
+    - time
+    - size of group
+    - smokers or non-smokers
+- We will use the learning the following types of plots:
+    - Univariate plots
+        - Histogram
+        - Kerner Density Estimation (KDE)
+        - Distplot
+    - Bivariate plots
+        - Scatterplot
+        - Lineplot
+        - Jointplot (*Basic, Hex, KDE*)
+    - Categorical Datatypes
+        - Scatterplot.
+        - Boxplot.
+        - Violin plot.
+- Use Seaborn to make beautiful visualizations and tell a story.
 
+
+## About the Datasets
 ### Tips
 Food servers’ tips in restaurants may be influenced by many
 factors, including the nature of the restaurant, size of the party, and table
@@ -54,31 +82,6 @@ Header | Description
 `Non_college_jobs` | Number with job not requiring a college degree
 `Low_wage_jobs` | Number in low-wage service jobs
 
-## Learning Objectives
-For this week we willl be focusing on the following goals:
-- We will use visualization as an analysis tool instead of using Pandas DataFrame 
-- Check if the tips recieved by a waiter are dependent on the other factors such as
-    - Sex
-    - day
-    - time
-    - size of group
-    - smokers or non-smokers
-- We will use the learning the following types of plots:
-    - Univariate plots
-        - Histogram
-        - Kerner Density Estimation (KDE)
-        - Distplot
-    - Bivariate plots
-        - Scatterplot
-        - Lineplot
-        - Jointplot (*Basic, Hex, KDE*)
-    - Categorical Datatypes
-        - Scatterplot.
-        - Boxplot.
-        - Violin plot.
-- Use Seaborn to make beautiful visualizations and tell a story.
-
-
 ## About the Library
 ### Seaborn
 Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.Here is some of the functionality that seaborn offers:
@@ -94,6 +97,7 @@ Seaborn is a library for making statistical graphics in Python. It is built on t
 Seaborn aims to make visualization a central part of exploring and understanding data. Its dataset-oriented plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots.
 
 ## Resources
+- [Seaborn](https://seaborn.pydata.org/)
 - [Recent Grads](http://www.census.gov/programs-surveys/acs/data/pums.html)
 
 

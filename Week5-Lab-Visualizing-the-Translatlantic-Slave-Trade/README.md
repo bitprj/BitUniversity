@@ -1,6 +1,6 @@
-![Ship](assets/ship.jpg)
+<img src="assets/ship.jpg" align="center"> 
 
-# Visualizing the Transatlantic Slave Trade
+# <div align="center">Visualizing the Transatlantic Slave Trade</div>
 
 ## Lab Methodoloy
 Congratulations you have made it to the first lab of this course. The focus of these labs is to help you learn and apply a structured approach when working on project. You will be using the tools such as ```pandas```, ```matplotlib``` and ```NumPy``` To explore the dataset. 
@@ -47,6 +47,17 @@ The details of the more than 36,000 voyages presented here greatly facilitate th
 ## Learning Objectives
 
 ## About the Libraries
+The libariries we will be using for this Lab are:
+
+### Pandas
+Pandas is an open-source, BSD-licensed Python library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. Python with Pandas is used in a wide range of fields including academic and commercial domains including finance, economics, Statistics, analytics, etc. In this tutorial, we will learn the various features of Python Pandas and how to use them in practice.
+
+### Matplotlib
+The matplotlib Python library, developed by John Hunter and many other contributors, is used to create high-quality graphs, charts, and figures. The library is extensive and capable of changing very minute details of a figure. Some basic concepts and functions provided in matplotlib are:
+
+matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
+
+In matplotlib.pyplot various states are preserved across function calls, so that it keeps track of things like the current figure and plotting area, and the plotting functions are directed to the current axes (please note that "axes" here and in most places in the documentation refers to the axes part of a figure and not the strict mathematical term for more than one axis).
 
 
 
@@ -54,5 +65,9 @@ The details of the more than 36,000 voyages presented here greatly facilitate th
 ## Resources
 
 - [Brookes](https://en.wikipedia.org/wiki/Brookes_(ship))
+- [Transatlantic Slave Trade](https://www.britannica.com/topic/transatlantic-slave-trade)
+- [Slave Voyages](https://www.slavevoyages.org/)
+- [Matplotlib](https://matplotlib.org/3.3.1/tutorials/index.html)
+- [Pandas Dataframes](https://pandas.pydata.org/docs/reference/frame.html)
 
 
