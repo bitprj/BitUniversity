@@ -1,4 +1,5 @@
 <img src="assets/statistical-visualization-readme.png" align="center">
+
 # <div align="center">Statistical Visualization with Seaborn</div>
 
 ## Recap
