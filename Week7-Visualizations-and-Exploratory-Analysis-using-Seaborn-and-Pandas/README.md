@@ -1,4 +1,5 @@
-# Statistical Visualization with Seaborn
+<img src="assets/statistical-visualization-readme.png" align="center">
+# <div align="center">Statistical Visualization with Seaborn</div>
 
 ## Recap
 By this point we have looked into some important steps such as:
