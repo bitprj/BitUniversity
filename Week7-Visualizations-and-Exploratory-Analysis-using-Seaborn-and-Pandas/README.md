@@ -1,4 +1,4 @@
-<img src="assets/statistical-visualization-readme.png" align="center">
+<img src="assets/statistical-visualization-readme.png" width="500" align="center">
 
 # <div align="center">Statistical Visualization with Seaborn</div>
 
@@ -95,6 +95,7 @@ Seaborn is a library for making statistical graphics in Python. It is built on t
 Seaborn aims to make visualization a central part of exploring and understanding data. Its dataset-oriented plotting functions operate on dataframes and arrays containing whole datasets and internally perform the necessary semantic mapping and statistical aggregation to produce informative plots.
 
 ## Resources
+- [Seaborn](https://seaborn.pydata.org/)
 - [Recent Grads](http://www.census.gov/programs-surveys/acs/data/pums.html)
 
 
