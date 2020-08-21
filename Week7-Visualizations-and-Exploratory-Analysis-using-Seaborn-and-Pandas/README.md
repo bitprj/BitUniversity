@@ -1,5 +1,6 @@
-<img align="center" src="assets/statistical-visualization-readme.png">
-
+<p align="center">
+<img src="assets/statistical-visualization-readme.png">
+</p>
 # <div align="center">Statistical Visualization with Seaborn and Pandas</div>
 
 ## Recap
