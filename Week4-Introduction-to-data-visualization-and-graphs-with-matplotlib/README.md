@@ -9,8 +9,25 @@ By this point we have looked into some important steps such as:
 - Loading datasets (.csv files).
 - Observing datasets as pandas DataFrame.
 
-## About the Datasets
+## Learning Objectives
+For this week our main focus will be to visualize our data when it's loaded in a Pandas DataFrame. For this we will be using **matplotlib** and **pandas**. You are familiar with pandas by now but matplotlib is new to you. Therefore, understanding and using the tools provided through matplotlib will be our main focus. By the end of the week you wil be able to implement the following ```commands```:
+- Understand how  ```pyplot``` works and how to you can make customized plots using it.
+- Use ```pandas``` to plot your dataFrame and map columns in the form of useful visualizations.
+- Learn how to load and use Time-Series data using Pandas ```pd.read_csv```
+- Use the 'Stock market data' to learn how to plot basic graphs and making them readable by adding:
+  - colors
+  - markers
+  - linestyles
+  - labels
+  - ticks
+  - legends
+- Use ```matplotlib``` to create bar plots,line charts and scatter plots.
+- Loading and Examining the California Housing dataset and mapping geo-location data:
+  - Visualizing the distribution of median income of home owners in California.
+  - Comparing the median income with the price of the houses.
+  - Find Dense clusters using visualization techniques.
 
+## About the Datasets
 ### Stock Market Index
 
 This is a simple introductory dataset. The dataset contains has a shape of 5473 rows and 10 columns, the first row is the header row, therefore the shape of our dataset is (5472,10). The first column is the datetime ranging from 1990 to 2012. The remaining 9 columns are numerical values that indicate the stock prices of companies such as:
@@ -56,26 +73,6 @@ Inspiration
 
 Which countries bear the greatest share of all forms of malnutrition?
 % of stunted, overweight and wasted children under 5, by country income classification
-
-
-## Learning Objectives
-For this week our main focus will be to visualize our data when it's loaded in a Pandas DataFrame. For this we will be using **matplotlib** and **pandas**. You are familiar with pandas by now but matplotlib is new to you. Therefore, understanding and using the tools provided through matplotlib will be our main focus. By the end of the week you wil be able to implement the following ```commands```:
-- Understand how  ```pyplot``` works and how to you can make customized plots using it.
-- Use ```pandas``` to plot your dataFrame and map columns in the form of useful visualizations.
-- Learn how to load and use Time-Series data using Pandas ```pd.read_csv```
-- Use the 'Stock market data' to learn how to plot basic graphs and making them readable by adding:
-  - colors
-  - markers
-  - linestyles
-  - labels
-  - ticks
-  - legends
-- Use ```matplotlib``` to create bar plots,line charts and scatter plots.
-- Loading and Examining the California Housing dataset and mapping geo-location data:
-  - Visualizing the distribution of median income of home owners in California.
-  - Comparing the median income with the price of the houses.
-  - Find Dense clusters using visualization techniques.
-
 
 ## About the Libraries
 
