@@ -1,4 +1,4 @@
-<img src = 'assets/ship.jpg' align="center"> 
+<img src="assets/ship.jpg" align="center"> 
 
 # <div align="center">Visualizing the Transatlantic Slave Trade</div>
 
