@@ -7,8 +7,32 @@ By this point we have looked into some important steps such as:
 - Loading datasets (.csv files).
 - Observing datasets as pandas DataFrame.
 
-## About the Datasets
+## Learning Objectives
+For this week we willl be focusing on the following goals:
+- We will use visualization as an analysis tool instead of using Pandas DataFrame 
+- Check if the tips recieved by a waiter are dependent on the other factors such as
+    - Sex
+    - day
+    - time
+    - size of group
+    - smokers or non-smokers
+- We will use the learning the following types of plots:
+    - Univariate plots
+        - Histogram
+        - Kerner Density Estimation (KDE)
+        - Distplot
+    - Bivariate plots
+        - Scatterplot
+        - Lineplot
+        - Jointplot (*Basic, Hex, KDE*)
+    - Categorical Datatypes
+        - Scatterplot.
+        - Boxplot.
+        - Violin plot.
+- Use Seaborn to make beautiful visualizations and tell a story.
 
+
+## About the Datasets
 ### Tips
 Food servers’ tips in restaurants may be influenced by many
 factors, including the nature of the restaurant, size of the party, and table
@@ -53,31 +77,6 @@ Header | Description
 `College_jobs` | Number with job requiring a college degree
 `Non_college_jobs` | Number with job not requiring a college degree
 `Low_wage_jobs` | Number in low-wage service jobs
-
-## Learning Objectives
-For this week we willl be focusing on the following goals:
-- We will use visualization as an analysis tool instead of using Pandas DataFrame 
-- Check if the tips recieved by a waiter are dependent on the other factors such as
-    - Sex
-    - day
-    - time
-    - size of group
-    - smokers or non-smokers
-- We will use the learning the following types of plots:
-    - Univariate plots
-        - Histogram
-        - Kerner Density Estimation (KDE)
-        - Distplot
-    - Bivariate plots
-        - Scatterplot
-        - Lineplot
-        - Jointplot (*Basic, Hex, KDE*)
-    - Categorical Datatypes
-        - Scatterplot.
-        - Boxplot.
-        - Violin plot.
-- Use Seaborn to make beautiful visualizations and tell a story.
-
 
 ## About the Library
 ### Seaborn
