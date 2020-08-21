@@ -1,6 +1,6 @@
 <img src="assets/data-visualize-readme.png" align = "center">
 
-# <div align="center"Introduction to Data Visualization</div
+# <div align="center">Introduction to Data Visualization</div
 
 ## Recap
 By this point we have looked into some important steps such as:
