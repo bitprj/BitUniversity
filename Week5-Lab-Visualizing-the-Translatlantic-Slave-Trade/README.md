@@ -1,4 +1,4 @@
-<div align = "center">![Ship](assets/ship.jpg)</div>
+!<div align = "center">[Ship](assets/ship.jpg)</div>
 
 # <div align="center">Visualizing the Transatlantic Slave Trade</div>
 
