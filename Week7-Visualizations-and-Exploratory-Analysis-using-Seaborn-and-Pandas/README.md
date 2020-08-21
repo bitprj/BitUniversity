@@ -1,6 +1,6 @@
-<img src="assets/statistical-visualization-readme.png" width="500" align="center">
+<img align="center" src="assets/statistical-visualization-readme.png">
 
-# <div align="center">Statistical Visualization with Seaborn</div>
+# <div align="center">Statistical Visualization with Seaborn and Pandas</div>
 
 ## Recap
 By this point we have looked into some important steps such as:
