@@ -1,4 +1,5 @@
-# Week 1: Introduction README
+
+# <div align="center"> Week 1: Introduction to Digital History</div>
 
 ## About this Course
 Welcome to Week 1 of the Introduction to Digital History. This is an exciting step we will be taking into understanding the world of digital data and how to use it analyze it.
@@ -22,8 +23,7 @@ By the last tutorial (Week 11), you will be ready and equipped with the complete
 - Being able to convert data into a table (aka DataFrame) format and clean / filter for meaningful data.
 - Being able to visualize numerical data and find simple patterns.
 - Using visualization tools to visualize categorical data and perform statistical analysis on it.
-- Building a simple Machine Learning model on top of the previously acquired skills.
-
+- Understanding the Concept of data modeling.
 
 ### Labs:
 There are 3 labs in this course. 
@@ -40,33 +40,55 @@ The tutorials include multiple assignments called 'Now Try This', which are in-c
 The labs have interlinking questions, in which every question is worth half a point (0.5 points). The same rule for extra credit in Tutorials applies for Labs as well, except that every question after the first 20 Lab question attempts will be counted as extra credit.
 
 ### Questions?
-Insert contact info here
+For Further Questions you can contact:
+| Developers | Email |
+|-------------|-------|
+|[@ShayanRiyaz](https://github.com/ShayanRiyaz) | shayanariyaz@gmail.com |
+| | |
+| | |
 
-## What is Data Science?
+
+## What is Data Science and Analytics?
 There’s a joke that says a data scientist is someone who knows more statistics than a computer scientist and more computer science than a statistician. (I didn’t say it was a good joke.) In fact, some data scientists are—for all practical purposes—statisticians, while others are fairly indistinguishable from software engineers. Some are machine learning experts, while others couldn’t machine-learn their way out of kindergarten. Some are PhDs with impressive publication records, while others have never read an academic paper (shame on them, though). In short, pretty much no matter how you define data science, you’ll find practitioners for whom the definition is totally, absolutely wrong.
 
 Nonetheless, we won’t let that stop us from trying. We’ll say that a data scientist is someone who extracts insights from messy data. Today’s world is full of people trying to turn data into insight.
-For instance, the dating site OkCupid asks its members to answer thousands of questions in order to find the most appropriate matches for them. But it also analyzes these results to figure out innocuous-sounding questions you can ask someone to find out how likely someone is to sleep with you on the first date.
+Some study cases are:
+- The dating site OkCupid asks its members to answer thousands of questions in order to find the most appropriate matches for them. But it also analyzes these results to figure out innocuous-sounding questions you can ask someone to find out how likely someone is to sleep with you on the first date.
+- Facebook asks you to list your hometown and your current location, ostensibly to make it easier for your friends to find and connect with you. But it also analyzes these locations to identify global migration patterns and where the fanbases of different football teams live.
+- As a large retailer, Target tracks your purchases and interactions, both online and in-store. And it uses the data to predictively model which of its customers are pregnant, to better market baby-related purchases to them.
+- In 2012, the Obama campaign employed dozens of data scientists who data-mined and experimented their way to identifying voters who needed extra attention, choosing optimal donor-specific fundraising appeals and programs, and focusing get-out-the-vote efforts where they were most likely to be useful. And in 2016 the Trump campaign tested a staggering variety of online ads and analyzed the data to find what worked and what didn’t.
 
-Facebook asks you to list your hometown and your current location, ostensibly to make it easier for your friends to find and connect with you. But it also analyzes these locations to identify global migration patterns and where the fanbases of different football teams live.
-As a large retailer, Target tracks your purchases and interactions, both online and in-store. And it uses the data to predictively model which of its customers are pregnant, to better market baby-related purchases to them.
+**One of the main subsets of Data Science is Data Analytics**
 
-In 2012, the Obama campaign employed dozens of data scientists who data-mined and experimented their way to identifying voters who needed extra attention, choosing optimal donor-specific fundraising appeals and programs, and focusing get-out-the-vote efforts where they were most likely to be useful. And in 2016 the Trump campaign tested a staggering variety of online ads and analyzed the data to find what worked and what didn’t.
-Now, before you start feeling too jaded: some data scientists also occasionally use their skills for good—using data to[…]
+Data analytics is the science of analyzing raw data in order to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption.
+
+Data analytics techniques can reveal trends and metrics that would otherwise be lost in the mass of information. This information can then be used to optimize processes to increase the overall efficiency of a business or system.
+
+### Types of Data Analytics
+Data analytics is broken down into four basic types.
+
+**Descriptive analytics** describes what has happened over a given period of time. Have the number of views gone up? Are sales stronger this month than last? </br>
+**Diagnostic analytics** focuses more on why something happened. This involves more diverse data inputs and a bit of hypothesizing. Did the weather affect beer sales? Did that latest marketing campaign impact sales?</br>
+**Predictive analytics** moves to what is likely going to happen in the near term. What happened to sales the last time we had a hot summer? How many weather models predict a hot summer this year?</br>
+**Prescriptive analytics** suggests a course of action. If the likelihood of a hot summer is measured as an average of these five weather models is above 58%, we should add an evening shift to the brewery and rent an additional tank to increase output.</br>
 
 ### Our Data Science Toolkit
-- Python and Numpy
-- Pandas for DataFrame Processing
-- Matplotlib and Seaborn
-- SciKitLearn
+- Python and Numpy.
+- Pandas for DataFrame Processing.
+- Matplotlib for simple visualizations.
+- Seaborn for advanced visualizations.
 
-### The Data Science Pipeline
+### The Data Analytics Pipeline
 OSEMN Pipeline
-- O: Obtaining our data
-- S: Scrubbing / Cleaning our data
-- E: Exploring / Visualizing our data will allow us to find patterns and trends
-- M: Modeling our data will give us our predictive power as a wizard
-- N: Interpreting our data
+|-|--------------------| 
+|O| Obtaining our data | 
+|S| Scrubbing / Cleaning our data |
+|E| Exploring / Visualizing our data will allow us to find patterns and trends |
+|M| Modeling our data will give us our predictive power as a wizard |
+|N| Interpreting our data |
+
+The first step is to determine the data requirements or how the data is grouped. Data may be separated by age, demographic, income, or gender. Data values may be numerical or be divided by category. The second step in data analytics is the process of collecting it. This can be done through a variety of sources such as computers, online sources, cameras, environmental sources, or through personnel. Once the data is collected, it must be organized so it can be analyzed. Organization may take place on a spreadsheet or other form of software that can take statistical data. The data is then cleaned up before analysis. This means it is scrubbed and checked to ensure there is no duplication or error, and that it is not incomplete. This step helps correct any errors before it goes on to a data analyst to be analyzed.
+
 
 
 ## Tutorial Structure Overview
