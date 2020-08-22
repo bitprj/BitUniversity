@@ -124,3 +124,7 @@ The output for the executed code will appear underneath the code block.
 The tutorials also feature “Now Try This” sections that allow students the opportunity to practice applying their newly learned skills. The solutions can also be provided for these exercises.
 ![Try This](imgs/TryThis.JPG)
 
+
+## Saving and downloading the notebooks
+In order to save and download your notebook, follow the steps in the image below
+![Save and Download](imgs/save-and-download-notebook.png)
