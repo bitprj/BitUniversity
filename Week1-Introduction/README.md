@@ -79,7 +79,7 @@ Data analytics is broken down into four basic types.
 - Seaborn for advanced visualizations.
 
 ### The Data Analytics Pipeline
-OSEMN Pipeline
+|OSEMN Pipeline| |
 |-|--------------------| 
 |O| Obtaining our data | 
 |S| Scrubbing / Cleaning our data |
