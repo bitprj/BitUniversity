@@ -4,7 +4,7 @@
 ![Cover Image](assets/DigitalHistoryCover.jpg)
 
 ## About this Course
-In a rapidly progressing data driven world, data science has become an integral part of nearly every field in the world. This is due to the availability of enormous records of data and our ability to find useful information with it. Although the data science requires a fundamental understanding of mathematics, the tools present in the current era make data analysis data wrangling easy to learn and implement. In this course we will be using the basic esstential tools with which anyone interested in the field can get started. For this course each week we will be going through multiple datasets. Each dataset will focus on specific parts of the data science toolkit. 
+In a rapidly progressing data-driven world, data science has become an integral part of nearly every field in the world. This is due to the availability of enormous records of data and our ability to find useful information with it. Although data science/analytics requires a fundamental understanding of mathematics, the tools present in the current era make data analysis data wrangling easy to learn and implement. In this course, we will be using the basic essential tools with which anyone interested in the field can get started. For this course each week we will be going through multiple datasets. Each dataset will focus on specific parts of the data science toolkit. 
 
 ## About BitProject
 
@@ -14,9 +14,9 @@ In a rapidly progressing data driven world, data science has become an integral 
 ## Course Format
 Our curriculum is centered around two types of categories:
 
-**Tutorials** are guided, step-by-step tutorials to teach concepts and technical skills. These will be assigned to build the technical skills needed for the labs. At the end of each week we have provided homeworks in order for students to be able to practice their skills on provided datasets.
+**Tutorials** are guided, step-by-step tutorials to teach concepts and technical skills. These will be assigned to build the technical skills needed for the labs. At the end of each week, we have provided homework in order for students to be able to practice their skills on provided datasets.
 
-**Labs** are the practical, hands-on projects that empower students to use the skills they have learned in lecture and tutorials to work on a bigger project. In this module, we will be working with three labs with the last lab being a 2 week final Project.
+**Labs** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this module, we will be working with three labs with the last lab being a 2 week final Project.
 
 
 ## Curriculum
