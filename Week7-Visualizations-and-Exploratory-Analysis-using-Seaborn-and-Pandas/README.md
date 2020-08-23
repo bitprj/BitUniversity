@@ -5,16 +5,16 @@
 # <div align="center">Statistical Visualization with Seaborn and Pandas</div>
 
 ## Recap
-By this point we have looked into some important steps such as:
+By this point, we have looked into some important steps such as:
 - Opening a google co-lab notebook.
 - Importing libraries such as Pandas and Numpy.
 - Loading datasets (.csv files).
 - Observing datasets as pandas DataFrame.
 
 ## Learning Objectives
-For this week we willl be focusing on the following goals:
+For this week we will be focusing on the following goals:
 - We will use visualization as an analysis tool instead of using Pandas DataFrame 
-- Check if the tips recieved by a waiter are dependent on the other factors such as
+- Check if the tips received by a waiter are dependent on the other factors such as
     - Sex
     - day
     - time
@@ -45,8 +45,7 @@ matter when they assign tables to food servers. For the sake of staff morale,
 they usually want to avoid either the substance or the appearance of unfair
 treatment of the servers, for whom tips (at least in restaurants in the United
 States) are a major component of pay.
-In one restaurant, a food server recorded the following data on all cus-
-tomers they served during an interval of two and a half months in early 1990.
+In one restaurant, a food server recorded the following data on all customers they served during an interval of two and a half months in early 1990.
 The restaurant, located in a suburban shopping mall, was part of a national
 chain and served a varied menu. In observance of local law, the restaurant
 offered to seat in a non-smoking section to patrons who requested it. Each
@@ -84,12 +83,12 @@ Header | Description
 
 ## About the Library
 ### Seaborn
-Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.Here is some of the functionality that seaborn offers:
+Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures. Here is some of the functionality that seaborn offers:
 
 - A dataset-oriented API for examining relationships between multiple variables
 - Specialized support for using categorical variables to show observations or aggregate statistics
 - Options for visualizing univariate or bivariate distributions and for comparing them between subsets of data
-- Automatic estimation and plotting of linear regression models for different kinds dependent variables
+- Automatic estimation and plotting of linear regression models for different kinds of dependent variables
 - Convenient views onto the overall structure of complex datasets
 - High-level abstractions for structuring multi-plot grids that let you easily build complex visualizations
 - Concise control over matplotlib figure styling with several built-in themes
