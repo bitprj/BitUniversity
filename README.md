@@ -22,7 +22,7 @@ Our curriculum is centered around two types of categories:
 ## Curriculum
 |Week|Category    |Name                                                              |Datasets
 |----|------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|1   |Introduction| Welcome to DigitalHistory                                  |-                                                                                 |
+|1   |Introduction|Welcome to DigitalHistory                                  |-                                                                                 |
 |2   |Tutorial    |Introduction to Python & NumPy                                    |-                                                                                 |
 |3   |Tutorial    |Introduction to open data, importing data and basic data wrangling|[Titanic](https://www.kaggle.com/c/titanic/data)                                  |
 |4   |Tutorial    |Introduction to data visualization and graphs with matplotlib    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |         
