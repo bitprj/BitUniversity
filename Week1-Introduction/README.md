@@ -11,20 +11,20 @@ The first class of the weeks consists of discussion and research on about relate
 
 The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
 
-### Our Toolkit
+### 🛠 Our Toolkit
 - Python and Numpy
 - Pandas for DataFrame Processing
 - Matplotlib for simple visualizations
 - Seaborn for advanced visualizations
 
-### Tutorials:
+### 📕 Tutorials:
 There are 7 Tutorials in this course. These tutorials will focus on helping you understand the tools used for working with and analyzing data. This analysis will range from beginner friendly to intuition based visualizations.
 
 Every week, you will learn a new tool and how to use it effectively. We will do this by following a "building blocks" method of thinking, in which every topic will add as a step towards the end of a data processing pipeline.
 
 You can reinforce your knowledge by working on graded 'Now Try This' exercises that are included in every tutorial notebook.
 
-### Homeworks
+### 📗 Homeworks
 Additionally, you will also have access to homeworks for the 7 Tutorials, these homeworks will be similar to the 'Now Try This' sections.
 
 By the last tutorial, you will be ready and equipped with the complete resources to work through a dataset by utilizing the following skills:
@@ -35,13 +35,13 @@ By the last tutorial, you will be ready and equipped with the complete resources
 - Visualize categorical data and perform statistical analysis to draw conclusion.
 - Understand the concept of data modeling.
 
-### Practicums:
+### 📘 Practicums:
 There are 3 practicums in this course. 
 - Practicum 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
 - Practicum 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
 - Practicum 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete data analysis pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
 
-### Grading:
+### 📝 Grading:
 #### Tutorials:
 The tutorials include multiple assignments called 'Now Try This', which are in-class exercises added in place to help students apply freshly learned concepts. Every 'Now Try this' assignment is worth a point. For this course, we have limited the number of baseline-graded 'Now Try This' assignments to 10 per notebook. If a student attempts more than 10, they can be counted as extra credit (.25 points each).
 
@@ -57,7 +57,7 @@ For Further Questions you can contact:
 |[@NaraeLee](https://github.com/narae970210/Narae-Lee) | narae970210@gmail.com|
 
 
-## What is Data Science and Analytics?
+## 📈 What is Data Science and Analytics?
 
 There’s a joke that says a data scientist is someone who knows more statistics than a computer scientist and more computer science than a statistician. (I didn’t say it was a good joke.) In fact, some data scientists are—for all practical purposes—statisticians, while others are fairly indistinguishable from software engineers. Some are machine learning experts, while others couldn’t machine-learn their way out of kindergarten. Some are PhDs with impressive publication records, while others have never read an academic paper (shame on them, though). In short, pretty much no matter how you define data science, you’ll find practitioners for whom the definition is totally, absolutely wrong.
 
@@ -93,7 +93,7 @@ Data analytics is broken down into four basic types.
 **Prescriptive analytics** suggests a course of action. If the likelihood of a hot summer is measured as an average of these five weather models is above 58%, we should add an evening shift to the brewery and rent an additional tank to increase output.</br>
 
 
-### The Data Analytics Pipeline
+### 🔁 The Data Analytics Pipeline
 |OSEMN Pipeline| |
 |-|--------------------| 
 |O| Obtaining our data | 
