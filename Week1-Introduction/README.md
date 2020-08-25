@@ -39,7 +39,7 @@ By the last tutorial, you will be ready and equipped with the complete resources
 There are 3 practicums in this course. 
 - Practicum 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
 - Practicum 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
-- Practicum 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete machine learning pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
+- Practicum 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete data analysis pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
 
 ### Grading:
 #### Tutorials:
