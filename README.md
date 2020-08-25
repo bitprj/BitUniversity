@@ -16,7 +16,7 @@ Our curriculum is centered around two types of categories:
 
 **Tutorials** are guided, step-by-step tutorials to teach concepts and technical skills. These will be assigned to build the technical skills needed for the labs. At the end of each week, we have provided homework in order for students to be able to practice their skills on provided datasets.
 
-**Labs** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this module, we will be working with three labs with the last lab being a 2 week final Project.
+**Labs** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this course, we will be working with three labs with the last lab being a 2 week final Project.
 
 
 ## Curriculum
