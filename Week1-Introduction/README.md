@@ -14,10 +14,7 @@ The second class of the weeks are meant to help prepare for these discussions. T
 ### 🛠 Our Toolkit
 <img src="imgs/python.png" align="center" width="50">
 
-<img src="imgs/pandas.png" align="center" width="50">
-<img src="imgs/numpy.png" align="center" width="50">
-<img src="imgs/matplotlib.jpg" align="center" width="50">
-<img src="imgs/seaborn.png" align="center" width="50">
+<img src="imgs/pandas.png" align="center" width="50"><img src="imgs/NumPy.png" align="center" width="50"><img src="imgs/matplotlib.jpg" align="center" width="50"><img src="imgs/Seaborn.png" align="center" width="50">
 
 - Python and Numpy
 - Pandas for DataFrame Processing
