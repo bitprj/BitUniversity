@@ -1,3 +1,5 @@
+<img src='imgs/icons/bitproject.png' align="right">
+
 # <div align="center"> Week 1: Introduction to Digital History</div>
 
 ## About this Course
@@ -5,31 +7,33 @@ Welcome to Week 1 of the Introduction to Digital History. This is an exciting st
 
 Before we get started, first let's dive into exactly what this course is:
 
-The first half of this course consists of general discussions about related topics that vary between discussion of historical / recorded datasets to discussions about the tools you have learned and how you can you use them for your own projects.
+The first class of the weeks consists of discussion and research on about related topics that vary from historical to recently recorded datasets. 
 
-The second half is meant to help prepare for these discussions. This portion of the course is a venture BitProject and Cal State Fullerton have begun to introduce the humanities curriculums with modern analytical thinking tools, primarily implemented through programming.
+The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
 
 ### Tutorials:
-There are 8 Tutorials in this course. These tutorials will focus on helping you understand the modern tools used by data scientists and will range from simple to complex analysis.
+There are 7 Tutorials in this course. These tutorials will focus on helping you understand the tools used for working with and analyzing data. This analysis will range from beginner friendly to intuition based visualizations.
 
-Every week, you will learn a new tool and will be taught on how to use it effectively. We will do this by following a "building blocks" method of thinking, in which every topic will add as a step towards the end of a data science pipeline.
+Every week, you will learn a new tool and how to use it effectively. We will do this by following a "building blocks" method of thinking, in which every topic will add as a step towards the end of a data processing pipeline.
 
 You can reinforce your knowledge by working on graded 'Now Try This' exercises that are included in every tutorial notebook.
 
-By the last tutorial (Week 11), you will be ready and equipped with the complete resources to work through a dataset by utilizing the following skills:
+### Homeworks
+Additionally, you will also have access to homeworks for the 7 Tutorials, these homeworks will be similar to the 'Now Try This' sections.
 
-- Understanding Python base / built-in methods to work with data.
-- Being able to convert data into a table (aka DataFrame) format and clean / filter for meaningful data.
+By the last tutorial, you will be ready and equipped with the complete resources to work through a dataset by utilizing the following skills:
+
+- Understanding Python base/built-in methods to work with data.
+- Being able to convert data into a table (aka DataFrame) format and clean/filter for meaningful data.
 - Being able to visualize numerical data and find simple patterns.
 - Using visualization tools to visualize categorical data and perform statistical analysis on it.
-- Understanding the Concept of data modeling.
+- Understanding the concept of data modeling.
 
 ### Labs:
 There are 3 labs in this course. 
 - Lab 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
 - Lab 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
 - Lab 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete machine learning pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
-
 
 ### Grading:
 #### Tutorials:
@@ -38,7 +42,7 @@ The tutorials include multiple assignments called 'Now Try This', which are in-c
 #### Labs:
 The labs have interlinking questions, in which every question is worth half a point (0.5 points). The same rule for extra credit in Tutorials applies for Labs as well, except that every question after the first 20 Lab question attempts will be counted as extra credit.
 
-### Questions?
+### Content Collaborators
 For Further Questions you can contact:
 | Developers | Email |
 |-------------|-------|
@@ -48,6 +52,7 @@ For Further Questions you can contact:
 
 
 ## What is Data Science and Analytics?
+
 There’s a joke that says a data scientist is someone who knows more statistics than a computer scientist and more computer science than a statistician. (I didn’t say it was a good joke.) In fact, some data scientists are—for all practical purposes—statisticians, while others are fairly indistinguishable from software engineers. Some are machine learning experts, while others couldn’t machine-learn their way out of kindergarten. Some are PhDs with impressive publication records, while others have never read an academic paper (shame on them, though). In short, pretty much no matter how you define data science, you’ll find practitioners for whom the definition is totally, absolutely wrong.
 
 Nonetheless, we won’t let that stop us from trying. We’ll say that a data scientist is someone who extracts insights from messy data. Today’s world is full of people trying to turn data into insight.
@@ -62,6 +67,16 @@ Some study cases are:
 Data analytics is the science of analyzing raw data in order to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption.
 
 Data analytics techniques can reveal trends and metrics that would otherwise be lost in the mass of information. This information can then be used to optimize processes to increase the overall efficiency of a business or system.
+
+Without data analysis, we wouldn't be able to advance as fast to the point where were are today. The reason a field such as data analysis is very important is because, in many cases it is better for us to draw conclusions through our own intuition. This is particularly because of our inate ability to simplify complex patterns in order to be able to comprehend them.
+
+**One known example is of John Snow (Not the Game of Thrones character)**
+<img src='imgs/john-snow-map.jpg' align="right">
+John Snow was a British doctor who used data collection and data analysis to trace the source of a cholera outbreak in central London, and to come to the conclusion that cholera was transmitted by “an agent in the water” than by the accepted theory that it was transmitted by “bad air”.  
+
+Snow used data collection to trace the cholera outbreak to two water companies who drew their water from the Thames river, virtually unfiltered. He notes that a huge, double-blind experiment fell into his lap: “No fewer than three hundred thousand people of both sexes, of every age and occupation, and of every rank and station, from gentlefolks down to the very poor, were divided into two groups without their choice, and, in most cases, without their knowledge; one group being supplied water containing the sewage of London, and amongst it, whatever might have come from the cholera patients, the other group having water quite free from such impurity.” 
+
+Snow’s analysis of the subsequent data and his other works led to fundamental changes in water and waste management in London and other cities, saving many lives and contributing significantly to global public health.  
 
 ### Types of Data Analytics
 Data analytics is broken down into four basic types.
@@ -90,7 +105,7 @@ The first step is to determine the data requirements or how the data is grouped.
 
 
 
-## Tutorial Structure Overview
+## Mode of Transmission
 This is the introductory material for Bit Project’s Digital History course curriculum. This week’s material will cover the accessibility and navigational walkthrough for the tutorials and labs used in this course.
 
 The instructional material for this course is hosted entirely online via Google Colab Jupyter Notebooks. Because of this, students will not need to install or download anything for their local system, which makes this course very easily accessible.
