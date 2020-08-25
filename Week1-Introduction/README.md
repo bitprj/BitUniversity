@@ -1,4 +1,3 @@
-
 # <div align="center"> Week 1: Introduction to Digital History</div>
 
 ## About this Course
@@ -44,8 +43,8 @@ For Further Questions you can contact:
 | Developers | Email |
 |-------------|-------|
 |[@ShayanRiyaz](https://github.com/ShayanRiyaz) | shayanariyaz@gmail.com |
-| | |
-| | |
+|[@Atuljayaram](https://github.com/atuljayaram) | atjayaram@ucdavis.edu|
+|[@NaraeLee](https://github.com/narae970210/Narae-Lee) | narae970210@gmail.com|
 
 
 ## What is Data Science and Analytics?
@@ -101,8 +100,6 @@ Each week, students will be given a link to access the assigned learning materia
 ## Accessing Google Colab from GitHub
 The Digital History curriculum is currently hosted on Bit Project’s GitHub page. Each week features a different tutorial as labeled with the “.ipynb” file extension. In order to access the Google Colab Tutorials, students can click on the blue “Open in Colab” button at the top of the tutorial’s content section.
 ![Open in Colab](imgs/OpenInColab.JPG)
-
-
 
 This will redirect to the Google Colab Jupyter Notebook environment that allows students to interact with the material and the provided exercises.
 (The new page will have the url format: colab.research.google.com/github/bitprj/DigitalHistory/…)
