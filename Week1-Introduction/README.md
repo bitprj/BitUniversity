@@ -1,5 +1,4 @@
-                                             <img src="imgs/icons/bitproject.png" align="center" width="300">
-
+<div align=”center”> ![BitProject](imgs/icons/bitproject.png)</div>
 # <div align="center"> Week 1: Introduction to Digital History</div>       
 
 ## About this Course
@@ -12,7 +11,7 @@ The first class of the weeks consists of discussion and research on about relate
 The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
 
 ## 🛠 Our Toolkit
-<img src="imgs/python.png" align="center" width="150">          <img src="imgs/pandas.png" align="center" width="150">          <img src="imgs/NumPy.png" align="center" width="150">          <img src="imgs/matplotlib.jpg" align="center" width="150">          <img src="imgs/Seaborn.png" align="center" width="150">
+<img src="imgs/python.png" align="center" width="100">          <img src="imgs/pandas.png" align="center" width="150">          <img src="imgs/NumPy.png" align="center" width="150">          <img src="imgs/matplotlib.jpg" align="center" width="150">          <img src="imgs/Seaborn.png" align="center" width="150">
 
 - Python and Numpy
 - Pandas for DataFrame Processing
