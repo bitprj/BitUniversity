@@ -1,4 +1,6 @@
-<div align=”center”> ![BitProject](imgs/icons/bitproject.png)</div>
+<p align="center"> 
+   <img src="imgs/icons/bitproject.png">
+</p>
 # <div align="center"> Week 1: Introduction to Digital History</div>       
 
 ## About this Course
