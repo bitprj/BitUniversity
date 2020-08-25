@@ -1,6 +1,6 @@
-<img src="imgs/icons/bitproject.png" align="center" width="300">
+                                             <img src="imgs/icons/bitproject.png" align="center" width="300">
 
-# <div align="center"> Week 1: Introduction to Digital History</div>
+# <div align="center"> Week 1: Introduction to Digital History</div>       
 
 ## About this Course
 Welcome to Week 1 of the Introduction to Digital History. This is an exciting step we will be taking into understanding the world of digital data and how to use and analyze it.
@@ -11,8 +11,8 @@ The first class of the weeks consists of discussion and research on about relate
 
 The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
 
-### 🛠 Our Toolkit
-<img src="imgs/python.png" align="center" width="150">     <img src="imgs/pandas.png" align="center" width="150">     <img src="imgs/NumPy.png" align="center" width="150">     <img src="imgs/matplotlib.jpg" align="center" width="150">     <img src="imgs/Seaborn.png" align="center" width="150">
+## 🛠 Our Toolkit
+<img src="imgs/python.png" align="center" width="150">          <img src="imgs/pandas.png" align="center" width="150">          <img src="imgs/NumPy.png" align="center" width="150">          <img src="imgs/matplotlib.jpg" align="center" width="150">          <img src="imgs/Seaborn.png" align="center" width="150">
 
 - Python and Numpy
 - Pandas for DataFrame Processing
