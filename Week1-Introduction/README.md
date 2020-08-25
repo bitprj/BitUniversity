@@ -1,4 +1,4 @@
-[Bit Project](imgs/icons/bitproject.png)
+![Bit Project](imgs/icons/bitproject.png)
 
 # <div align="center"> Week 1: Introduction to Digital History</div>
 
@@ -71,7 +71,7 @@ Data analytics techniques can reveal trends and metrics that would otherwise be 
 Without data analysis, we wouldn't be able to advance as fast to the point where were are today. The reason a field such as data analysis is very important is because, in many cases it is better for us to draw conclusions through our own intuition. This is particularly because of our inate ability to simplify complex patterns in order to be able to comprehend them.
 
 **One known example is of John Snow (Not the Game of Thrones character)**
-[John Snow](imgs/john-snow-map.jpg)
+![John Snow](imgs/john-snow-map.jpg)
 John Snow was a British doctor who used data collection and data analysis to trace the source of a cholera outbreak in central London, and to come to the conclusion that cholera was transmitted by “an agent in the water” than by the accepted theory that it was transmitted by “bad air”.  
 
 Snow used data collection to trace the cholera outbreak to two water companies who drew their water from the Thames river, virtually unfiltered. He notes that a huge, double-blind experiment fell into his lap: “No fewer than three hundred thousand people of both sexes, of every age and occupation, and of every rank and station, from gentlefolks down to the very poor, were divided into two groups without their choice, and, in most cases, without their knowledge; one group being supplied water containing the sewage of London, and amongst it, whatever might have come from the cholera patients, the other group having water quite free from such impurity.” 
@@ -86,7 +86,7 @@ Data analytics is broken down into four basic types.
 **Predictive analytics** moves to what is likely going to happen in the near term. What happened to sales the last time we had a hot summer? How many weather models predict a hot summer this year?</br>
 **Prescriptive analytics** suggests a course of action. If the likelihood of a hot summer is measured as an average of these five weather models is above 58%, we should add an evening shift to the brewery and rent an additional tank to increase output.</br>
 
-### Our Data Science Toolkit
+### Our Toolkit
 - Python and Numpy.
 - Pandas for DataFrame Processing.
 - Matplotlib for simple visualizations.
