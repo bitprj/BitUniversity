@@ -3,13 +3,19 @@
 # <div align="center"> Week 1: Introduction to Digital History</div>
 
 ## About this Course
-Welcome to Week 1 of the Introduction to Digital History. This is an exciting step we will be taking into understanding the world of digital data and how to use it analyze it.
+Welcome to Week 1 of the Introduction to Digital History. This is an exciting step we will be taking into understanding the world of digital data and how to use and analyze it.
 
 Before we get started, first let's dive into exactly what this course is:
 
 The first class of the weeks consists of discussion and research on about related topics that vary from historical to recently recorded datasets. 
 
 The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
+
+### Our Toolkit
+- Python and Numpy
+- Pandas for DataFrame Processing
+- Matplotlib for simple visualizations
+- Seaborn for advanced visualizations
 
 ### Tutorials:
 There are 7 Tutorials in this course. These tutorials will focus on helping you understand the tools used for working with and analyzing data. This analysis will range from beginner friendly to intuition based visualizations.
@@ -23,24 +29,24 @@ Additionally, you will also have access to homeworks for the 7 Tutorials, these 
 
 By the last tutorial, you will be ready and equipped with the complete resources to work through a dataset by utilizing the following skills:
 
-- Understanding Python base/built-in methods to work with data.
-- Being able to convert data into a table (aka DataFrame) format and clean/filter for meaningful data.
-- Being able to visualize numerical data and find simple patterns.
-- Using visualization tools to visualize categorical data and perform statistical analysis on it.
-- Understanding the concept of data modeling.
+- Understand Python base/built-in methods to work with data.
+- Convert data into a table (aka DataFrame) format and clean/filter to identify meaningful data.
+- Visualize numerical data and find simple patterns.
+- Visualize categorical data and perform statistical analysis to draw conclusion.
+- Understand the concept of data modeling.
 
-### Labs:
-There are 3 labs in this course. 
-- Lab 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
-- Lab 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
-- Lab 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete machine learning pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
+### Practicums:
+There are 3 practicums in this course. 
+- Practicum 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
+- Practicum 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
+- Practicum 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete machine learning pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
 
 ### Grading:
 #### Tutorials:
-The tutorials include multiple assignments called 'Now Try This', which are in-class exercises added in place to help students apply freshly learned concepts. Every 'Now Try this' assignment is worth half a point (0.5 points). For this course, we have limited the number of baseline-graded 'Now Try This' assignments to 10 per notebook. If a student attempts more than 10, they can be counted as extra credit (.25 points each).
+The tutorials include multiple assignments called 'Now Try This', which are in-class exercises added in place to help students apply freshly learned concepts. Every 'Now Try this' assignment is worth a point. For this course, we have limited the number of baseline-graded 'Now Try This' assignments to 10 per notebook. If a student attempts more than 10, they can be counted as extra credit (.25 points each).
 
-#### Labs:
-The labs have interlinking questions, in which every question is worth half a point (0.5 points). The same rule for extra credit in Tutorials applies for Labs as well, except that every question after the first 20 Lab question attempts will be counted as extra credit.
+#### Practicums:
+The Practicums have interlinking questions, in which every question is worth a point. The same rule for extra credit in Tutorials applies for Practicums as well, except that every question after the first 20 Practicum question attempts will be counted as extra credit.
 
 ### Content Collaborators
 For Further Questions you can contact:
@@ -86,11 +92,6 @@ Data analytics is broken down into four basic types.
 **Predictive analytics** moves to what is likely going to happen in the near term. What happened to sales the last time we had a hot summer? How many weather models predict a hot summer this year?</br>
 **Prescriptive analytics** suggests a course of action. If the likelihood of a hot summer is measured as an average of these five weather models is above 58%, we should add an evening shift to the brewery and rent an additional tank to increase output.</br>
 
-### Our Toolkit
-- Python and Numpy.
-- Pandas for DataFrame Processing.
-- Matplotlib for simple visualizations.
-- Seaborn for advanced visualizations.
 
 ### The Data Analytics Pipeline
 |OSEMN Pipeline| |
