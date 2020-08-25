@@ -9,14 +9,14 @@ In a rapidly progressing data-driven world, data science has become an integral 
 ## About BitProject
 
 ## How to access the materials
-[PENDING]
+We will teach the materials in Google colab. Students will be provided a link to the tutorial page in Google Colab. They will save a copy in their Google Drive, write codes, play around with it, and submit their work by downloading a ipynb from Google colab.
 
 ## Course Format
 Our curriculum is centered around two types of categories:
 
 **Tutorials** are guided, step-by-step tutorials to teach concepts and technical skills. These will be assigned to build the technical skills needed for the labs. At the end of each week, we have provided homework in order for students to be able to practice their skills on provided datasets.
 
-**Labs** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this course, we will be working with three labs with the last lab being a 2 week final Project.
+**Practicums** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this course, we will be working with three labs with the last lab being a 2 week final Project.
 
 
 ## Curriculum
@@ -24,7 +24,7 @@ Our curriculum is centered around two types of categories:
 |----|------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |1   |Introduction|Welcome to DigitalHistory                                  |-                                                                                 |
 |2   |Tutorial    |Introduction to Python & NumPy                                    |-                                                                                 |
-|3   |Tutorial    |Introduction to open data, importing data and basic data wrangling|[Titanic](https://www.kaggle.com/c/titanic/data)                                  |
+|3   |Tutorial    |Introduction to open data, importing data and basic data wrangling|[Titanic](https://www.kaggle.com/c/titanic/data) & [US Census Demographic Data](https://www.kaggle.com/muonneutrino/us-census-demographic-data)  |
 |4   |Tutorial    |Introduction to data visualization and graphs with matplotlib    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |         
 |5   |Lab         |Visualizing the Translatlantic Slave Trade                        |[Trans Atlantic Slave Trade](https://www.slavevoyages.org/voyage/database)        |
 |6   |Tutorial    |Advanced data wrangling using Pandas                              |[January Flight Delays](https://www.kaggle.com/divyansh22/flight-delay-prediction)|
