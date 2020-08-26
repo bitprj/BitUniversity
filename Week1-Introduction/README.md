@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center" width="200"> 
    <img src="imgs/icons/bitproject.png">
 </p>
 
