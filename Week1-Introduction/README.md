@@ -144,4 +144,4 @@ The tutorials also feature “Now Try This” sections that allow students the o
 
 ## Saving and downloading the notebooks
 In order to save and download your notebook, follow the steps in the image below
-![Save and Download](imgs/save-and-download-notebook.png)
+![Save and Download](imgs/save-download-notebook.png)
