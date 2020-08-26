@@ -8,6 +8,20 @@ In a rapidly progressing data-driven world, data science has become an integral 
 
 ## About BitProject
 
+The Bit community is powered by collaboration. We believe learning is more fun — and more effective — when we put our heads together.
+
+### Who we are
+We are passionate students from all walks of life who come together to making tech education accessible.
+
+Our mission is to provide students the tools and connections they need to unleash their potential in tech.
+### Our Values
+We believe in democratizing tech education. Everyone should have access to quality resources, opportunities, and networks regardless of their background.
+
+At Bit Project, we strive to create an environment where all people are welcomed, members are engaged, and backgrounds are celebrated.
+
+We welcome everyone, regardless of age, race, class, ethnicity, gender identity or expression, sexual identity, ability, size, nationality, culture, faith, neurotype and background.
+
+
 ## How to access the materials
 We will teach the materials in Google colab. Students will be provided a link to the tutorial page in Google Colab. They will save a copy in their Google Drive, write codes, play around with it, and submit their work by downloading a ipynb from Google colab.
 
