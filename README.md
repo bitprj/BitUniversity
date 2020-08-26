@@ -1,5 +1,6 @@
 
-# DigitalHistory 
+
+# <div align = "center">DigitalHistory</div>
 
 ![Cover Image](assets/DigitalHistoryCover.jpg)
 
