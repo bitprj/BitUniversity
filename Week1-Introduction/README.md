@@ -120,29 +120,35 @@ Each week, students will be given a link to access the assigned learning materia
 
 ## Accessing Google Colab from GitHub
 The Digital History curriculum is currently hosted on Bit Project’s GitHub page. Each week features a different tutorial as labeled with the “.ipynb” file extension. In order to access the Google Colab Tutorials, students can click on the blue “Open in Colab” button at the top of the tutorial’s content section.
+
 ![Open in Colab](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/OpenInColab.JPG?raw=true)
 
 This will redirect to the Google Colab Jupyter Notebook environment that allows students to interact with the material and the provided exercises.
 (The new page will have the url format: colab.research.google.com/github/bitprj/DigitalHistory/…)
+
 ![New Web Page](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/NewWebPage.JPG?raw=true)
 
 
 ## Running Code Blocks
 Within this environment, students can read through the learning content, and interact with the material by running the code provided.
 (To execute lines of code, students can either press the PLAY button on the left hand side of the code block, or press SHIFT + ENTER.)
+
 ![Play Button Code Block](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/PlayButtonCodeBlock.JPG?raw=true)
 
 
 
 The output for the executed code will appear underneath the code block.
+
 ![Output](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/Output.JPG?raw=true)
 
 
 ## Practicing New Skills
 The tutorials also feature “Now Try This” sections that allow students the opportunity to practice applying their newly learned skills. The solutions can also be provided for these exercises.
+
 ![Try This](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/TryThis.JPG?raw=true)
 
 
 ## Saving and downloading the notebooks
 In order to save and download your notebook, follow the steps in the image below
+
 ![Save and Download](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/save-download-notebook.png?raw=true)
