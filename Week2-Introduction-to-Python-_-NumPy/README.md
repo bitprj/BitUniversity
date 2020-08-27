@@ -4,10 +4,6 @@
 By this point we have looked into some important steps such as:
 - Understanding data science and its scope and role in the world
 
-## About the Libraries
-
-## About the Datasets
-
 ## Learning Objectives
 For this week, we will learn the basics of Python and creating basic programs. By the end of the week you wil be able to do the following:
 - Recognize and be comfortable with Python syntax.
