@@ -20,17 +20,28 @@ By the end of the week, you wil be able to implement the following functions and
   - Create new columns
   - Sort dataframe
   - Drop entities
+  - Replace NaN values
   - Unique values
   - Join two dataframe
 
 ## About the Libraries
 ### Pandas
 
-Pandas is an open source data analysis and manipulation tool, built on top of the Python programming. Anytime you work with data, you can use Pandas and you will be able to answer any questions.
+<img src="https://github.com/bitprj/DigitalHistory/blob/Narae/Week3-Introduction-to-Open-Data-Importing-Data-and-Basic-Data-Wrangling/assets/icons/pandas.png?raw=1" width="200" align="center"> 
+
+Pandas stands for **Python Data Analysis Library**. Pandas is an open source data analysis and manipulation tool and it is widely used both in academia and industry. It is built on top of the Python programming language and it offers data structures and operations for manipulating numerical tables and time series.
  
 
 ## About the Dataset 
 ### January Flight Delays
+
+<img src="https://github.com/bitprj/DigitalHistory/blob/Narae/Week6-Advanced-Data-Wrangling-using-Pandas/assets/icons/flight.jpg?raw=1" width="300" align="center"> 
+
+We will be using the flight delay dataset for January 2020. 
+
+This data is collected from the Bureau of Transportation Statistics, Govt. of the USA. This data is open-sourced under U.S. Govt. Works. This dataset contains all the flights in the month of January 2020. There are more than 400,000 flights in the month of January itself throughout the United States. The features were manually chosen to do a primary time series analysis. There are several other features available on their website.
+
+This data could well be used to predict the flight delay at the destination airport specifically for the month of January in upcoming years as the data is for January only.
 
 - Day_of_week: Day of Week starting from Monday
   - Ex: Monday = 1, Sunday = 7
@@ -49,3 +60,7 @@ Pandas is an open source data analysis and manipulation tool, built on top of th
 
 
 ## For further assistance
+
+If you would like to learn more about Pandas dataframe, here's the resource you can refer to. Pandas Dataframe API is a library where all of the functions and properties in Pandas are available.
+
+[Pandas Dataframe API](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
