@@ -1,4 +1,4 @@
-<p align="center" width="100"> 
+<p align="center" width="50"> 
    <img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/icons/bitproject.png?raw=true">
 </p>
 
