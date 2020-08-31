@@ -4,7 +4,9 @@
 
 ## Recap
 By this point we have looked into some important steps such as:
-- Understanding data science and its scope and role in the world
+- What is Data? And it's relevance in our mordern era.
+- Understanding data science and its scope and role in the world.
+- A general outline of what you will be learning throughout this curriculum.
 
 ## Learning Objectives
 For this week, we will learn the basics of Python and creating basic programs. By the end of the week you wil be able to do the following:
@@ -14,6 +16,10 @@ For this week, we will learn the basics of Python and creating basic programs. B
 - Understand functions and their use cases.
 - Have a solid grasp of errors and exception handling.
 - Be familar with modules and how to import them into your program.
+
+## About Python
+<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week2-Introduction-to-Python-_-NumPy/assets/python.png?raw=true" align="center" width="100">&nbsp;
+
 
 ## Resources
 - [Python Documentation](https://docs.python.org/3/)
