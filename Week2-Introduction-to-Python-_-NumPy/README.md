@@ -1,6 +1,6 @@
 <img src="assets/python-cover.jpeg" align="center">
 
-# <div align="center" Introduction to Python</div>
+# <div align="center">Introduction to Python</div>
 
 ## Recap
 By this point we have looked into some important steps such as:
