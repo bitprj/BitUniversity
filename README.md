@@ -1,5 +1,5 @@
 # <div align = "center"> 🌍 Digital History</div>
-<img src="assets/DigitalHistory.jpg" class="center">
+<img src="assets/DigitalHistory.jpg" class="right">
 
 
 ## 📝 About this Course
