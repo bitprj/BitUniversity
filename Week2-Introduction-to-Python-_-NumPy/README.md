@@ -1,4 +1,4 @@
-<img src="assets/python-cover.jpeg" align="center" width="800">
+<img src="assets/python-cover.jpeg" align="center" >
 
 # <div align="center">Introduction to Python</div>
 
