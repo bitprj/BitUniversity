@@ -20,6 +20,7 @@ For this week, we will learn the basics of Python and creating basic programs. B
 ## About Python
 <img src="https://github.com/bitprj/DigitalHistory/blob/master/Week2-Introduction-to-Python-_-NumPy/assets/python.png?raw=true" align="center" width="100">&nbsp;
 
+Python is a very popular scripting language that you can use to create applications and programs of all sizes and complexity. It is very easy to learn and has very little syntax, making it very efficient to code with. Python is also the language of choice for many when performing comprehensive data analysis.
 
 ## Resources
 - [Python Documentation](https://docs.python.org/3/)
