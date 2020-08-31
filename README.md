@@ -1,13 +1,13 @@
 
 
-# <div align = "center">DigitalHistory</div>
+# <div align = "center"> 🌍 Digital History</div>
 
 ![Cover Image](assets/DigitalHistory.jpg)
 
-## About this Course
+## 📝 About this Course
 In a rapidly progressing data-driven world, data science has become an integral part of nearly every field in the world. This is due to the availability of enormous records of data and our ability to find useful information with it. Although data science/analytics requires a fundamental understanding of mathematics, the tools present in the current era make data analysis data wrangling easy to learn and implement. In this course, we will be using the basic essential tools with which anyone interested in the field can get started. For this course each week we will be going through multiple datasets. Each dataset will focus on specific parts of the data science toolkit. 
 
-## About BitProject
+## 🖖🏽 About BitProject
 
 The Bit community is powered by collaboration. We believe learning is more fun — and more effective — when we put our heads together.
 
@@ -34,7 +34,7 @@ Our curriculum is centered around two types of categories:
 **Practicums** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this course, we will be working with three labs with the last lab being a 2 week final Project.
 
 
-## Curriculum
+## 📕 Curriculum
 |Week|Category    |Name                                                              |Datasets
 |----|------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |1   |Introduction|Welcome to DigitalHistory                                  |-                                                                                 |
