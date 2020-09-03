@@ -1,4 +1,4 @@
-<img src="assets/python-cover.jpeg" align="center" >
+<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week2-Introduction-to-Python-_-NumPy/assets/python-cover.jpeg" align="center" >
 
 # <div align="center">Introduction to Python</div>
 
