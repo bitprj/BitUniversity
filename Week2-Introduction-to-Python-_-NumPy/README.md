@@ -8,6 +8,8 @@ By this point we have looked into some important steps such as:
 - Understanding data science and its scope and role in the world.
 - A general outline of what you will be learning throughout this curriculum.
 
+If you want an indepth recap you can read it [here](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/README.md)
+
 ## Learning Objectives
 For this week, we will learn the basics of Python and creating basic programs. By the end of the week you wil be able to do the following:
 - Recognize and be comfortable with Python syntax.
