@@ -1,7 +1,7 @@
 
 <img src="https://github.com/bitprj/DigitalHistory/blob/master/Week3-Introduction-to-Open-Data-Importing-Data-and-Basic-Data-Wrangling/assets/data-manipulation-cover.png" align="center">
 
-# Introduction to Data Manipulation with Pandas
+# <div align="center">Introduction to Data Manipulation with Pandas </div>
 
 ## Recap
 Last week, we covered the following concepts in Python:
