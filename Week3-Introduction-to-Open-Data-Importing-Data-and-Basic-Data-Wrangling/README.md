@@ -1,4 +1,4 @@
-![Cover](assets/data-manipulation-cover.png)
+<img src="assets/data-manipulation-cover.png" align="center">
 
 # Introduction to Data Manipulation with Pandas
 
