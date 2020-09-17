@@ -36,9 +36,9 @@ Our curriculum is centered around two types of categories:
 ### CheatSheets:
 - [Python](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Python-cheatsheet.pdf)
 - [Pandas](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Pandas-cheatsheet.pdf)
-- [Matplotlib]
-- [NumPy]
-- [Seaborn]
+- Matplotlib
+- NumPy
+- Seaborn
 
 ## 📕 Curriculum
 |Week|Category    |Name                                                              |Datasets
