@@ -1,4 +1,4 @@
-[Cover](assets/data-manipulation-cover.png)
+![Cover](assets/data-manipulation-cover.png)
 
 # Introduction to Data Manipulation with Pandas
 
