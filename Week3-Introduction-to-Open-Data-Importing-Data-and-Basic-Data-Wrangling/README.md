@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://github.com/bitprj/DigitalHistory/blob/master/Week3-Introduction-to-Open-Data-Importing-Data-and-Basic-Data-Wrangling/assets/data-manipulation-cover.png">
 </p>
+
 # <div align="center">Introduction to Data Manipulation with Pandas </div>
 
 ## Recap
