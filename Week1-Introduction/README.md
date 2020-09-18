@@ -1,5 +1,5 @@
-<p align="center" width="150"> 
-   <img src="imgs/icons/bitproject.png">
+<p align="center" width="50"> 
+   <img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/icons/bitproject.png?raw=true">
 </p>
 
 # <div align="center"> Week 1: Introduction to Digital History</div>       
@@ -14,7 +14,7 @@ The first class of the weeks consists of discussion and research on about relate
 The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
 
 ## 🛠 Our Toolkit
-<img src="imgs/python.png" align="center" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/pandas.png" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/NumPy.png" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/matplotlib.jpg" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Seaborn.png" align="center" width="150">
+<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/python.png?raw=true" align="center" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/pandas.png?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/NumPy.png?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/matplotlib.jpg?raw=true" align="center" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/Seaborn.png?raw=true" align="center" width="150">
 
 - Python and Numpy
 - Pandas for DataFrame Processing
@@ -81,7 +81,8 @@ Data analytics techniques can reveal trends and metrics that would otherwise be 
 Without data analysis, we wouldn't be able to advance as fast to the point where were are today. The reason a field such as data analysis is very important is because, in many cases it is better for us to draw conclusions through our own intuition. This is particularly because of our inate ability to simplify complex patterns in order to be able to comprehend them.
 
 **One known example is of John Snow (Not the Game of Thrones character)**
-![John Snow](imgs/john-snow-map.jpg)
+![John Snow](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/john-snow-map.jpg?raw=true)
+
 John Snow was a British doctor who used data collection and data analysis to trace the source of a cholera outbreak in central London, and to come to the conclusion that cholera was transmitted by “an agent in the water” than by the accepted theory that it was transmitted by “bad air”.  
 
 Snow used data collection to trace the cholera outbreak to two water companies who drew their water from the Thames river, virtually unfiltered. He notes that a huge, double-blind experiment fell into his lap: “No fewer than three hundred thousand people of both sexes, of every age and occupation, and of every rank and station, from gentlefolks down to the very poor, were divided into two groups without their choice, and, in most cases, without their knowledge; one group being supplied water containing the sewage of London, and amongst it, whatever might have come from the cholera patients, the other group having water quite free from such impurity.” 
@@ -119,29 +120,35 @@ Each week, students will be given a link to access the assigned learning materia
 
 ## Accessing Google Colab from GitHub
 The Digital History curriculum is currently hosted on Bit Project’s GitHub page. Each week features a different tutorial as labeled with the “.ipynb” file extension. In order to access the Google Colab Tutorials, students can click on the blue “Open in Colab” button at the top of the tutorial’s content section.
-![Open in Colab](imgs/OpenInColab.JPG)
+
+![Open in Colab](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/OpenInColab.JPG?raw=true)
 
 This will redirect to the Google Colab Jupyter Notebook environment that allows students to interact with the material and the provided exercises.
 (The new page will have the url format: colab.research.google.com/github/bitprj/DigitalHistory/…)
-![New Web Page](imgs/NewWebPage.JPG)
+
+![New Web Page](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/NewWebPage.JPG?raw=true)
 
 
 ## Running Code Blocks
 Within this environment, students can read through the learning content, and interact with the material by running the code provided.
 (To execute lines of code, students can either press the PLAY button on the left hand side of the code block, or press SHIFT + ENTER.)
-![Play Button Code Block](imgs/PlayButtonCodeBlock.JPG)
+
+![Play Button Code Block](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/PlayButtonCodeBlock.JPG?raw=true)
 
 
 
 The output for the executed code will appear underneath the code block.
-![Output](imgs/Output.JPG)
+
+![Output](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/Output.JPG?raw=true)
 
 
 ## Practicing New Skills
 The tutorials also feature “Now Try This” sections that allow students the opportunity to practice applying their newly learned skills. The solutions can also be provided for these exercises.
-![Try This](imgs/TryThis.JPG)
+
+![Try This](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/TryThis.JPG?raw=true)
 
 
 ## Saving and downloading the notebooks
 In order to save and download your notebook, follow the steps in the image below
-![Save and Download](imgs/save-download-notebook.png)
+
+![Save and Download](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/save-download-notebook.png?raw=true)
