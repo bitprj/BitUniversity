@@ -1,4 +1,6 @@
-# <div align = "center"> 🌍 Digital History</div>
+## <div align = "center"> Bit Project </div>
+
+# <div align = "center"> 🌍 Digital History </div>
 
 <p align="center">
   <img src="assets/DigitalHistory.jpg" />
