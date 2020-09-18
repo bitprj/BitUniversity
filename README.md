@@ -33,23 +33,29 @@ Our curriculum is centered around two types of categories:
 
 **Practicums** are the practical, hands-on projects that empower students to use the skills they have learned in lectures and tutorials to work on a bigger project. In this course, we will be working with three labs with the last lab being a 2 week final Project.
 
+### CheatSheets:
+- [Python](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Python-cheatsheet.pdf)
+- [Pandas](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Pandas-cheatsheet.pdf)
+- Matplotlib
+- NumPy
+- Seaborn
 
 ## 📕 Curriculum
 |Week|Category    |Name                                                              |Datasets
 |----|------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|1   |Introduction|Welcome to DigitalHistory                                  |-                                                                                 |
+|1   |Introduction|Welcome to DigitalHistory                                         |-                                                                                 |
 |2   |Tutorial    |Introduction to Python & NumPy                                    |-                                                                                 |
 |3   |Tutorial    |Introduction to open data, importing data and basic data wrangling|[Titanic](https://www.kaggle.com/c/titanic/data) & [US Census Demographic Data](https://www.kaggle.com/muonneutrino/us-census-demographic-data)  |
-|4   |Tutorial    |Introduction to data visualization and graphs with matplotlib    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |         
+|4   |Tutorial    |Introduction to data visualization and graphs with matplotlib    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |          
 |5   |Lab         |Visualizing the Translatlantic Slave Trade                        |[Trans Atlantic Slave Trade](https://www.slavevoyages.org/voyage/database)        |
-|6   |Tutorial    |Advanced data wrangling using Pandas                              |[January Flight Delays](https://www.kaggle.com/divyansh22/flight-delay-prediction)|
-|7   |Tutorial    |Intro to statistical analysis and methods                         |[Campus Recruitment](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)                                                                                  |
-|8   |Tutorial    |Visualizations-and-Exploratory-Analysis-using-Seaborn-and-Pandas                |[Recent Graduates](https://github.com/ShayanRiyaz/data/blob/master/college-majors/recent-grads.csv)                             |
-|9   |Lab         |Statistical Analysis on the Runaway Slave Dataset                 |[Freedom On the Move](https://freedomonthemove.org/)                              |
-|10  |Tutorial    |Introduction to modeling and the analysis pipeline            |-                                                                                 |
-|11  |Tutorial    |Guest speaker session                      |-                                                                                 |
-|12  |Lab         |Final project                                                     |-                                                                                 |
-|13  |Lab         |Final project                                                     |-                                                                                 |
+|6   |Tutorial    |Advanced data wrangling using Pandas                              |[January Flight Delays](https://www.kaggle.com/divyansh22/flight-delay-prediction)|                                                                           |
+|7   |Tutorial    |Visualizations and Exploratory Analysis using Seaborn and Pandas  |[Recent Graduates](https://github.com/ShayanRiyaz/data/blob/master/college-majors/recent-grads.csv)                             |
+|8   |Tutorial    |Intro to statistical analysis and methods                         |[Campus Recruitment](https://www.kaggle.com/benroshan/factors-affecting-campus-placement)       |
+|9   |Lab         |Statistical Analysis on the Runaway Slave Dataset                 |[Freedom On the Move](https://freedomonthemove.org/)                        |
+|10  |Tutorial    |Introduction to modeling and the analysis pipeline                |-                                                                           |
+|11  |Tutorial    |Guest speaker session                                             |-                                                                           |
+|12  |Lab         |Final project                                                     |-                                                                           |
+|13  |Lab         |Final project                                                     |-                                                                           |
  
 
 ## Resources
