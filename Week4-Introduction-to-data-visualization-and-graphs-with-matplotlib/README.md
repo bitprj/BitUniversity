@@ -4,10 +4,17 @@
 
 ## Recap
 By this point, we have looked into some important steps such as:
-- Opening a google co-lab notebook.
-- Importing libraries such as Pandas and Numpy.
-- Loading datasets (.csv files).
-- Observing datasets as pandas DataFrame.
+- **Getting started**:
+    - Importing Pandas library: We discussed how you can import built-in libraries.
+    - Loading datasets (.csv files): We discussed how to load datasets and the resulting dataset is a Pandas dataframe.
+    - Setting an index: Setting an index helps you to identify each entity with a meaningful index rather than pre-generated index numbers.
+    - Getting basic info about dataframe: head, describe, info, and columns will provide you a good insight into the dataframe.
+- **Cleaning dataset**:
+    - Removing NaN values: We discussed how to remove rows with NaN values. You may set the specific criteria to remove NaN values.
+    - Removing a column: If a column does not provide a meaningful insight, you may remove the colu,m.
+    - Selecting subsets of data: You may select the columns to work with using column locations or column names.
+    - Filtering rows based on criteria: Based on your interest and project, you may set your own criteria to filter the dataset that meets the criteria.
+    - Aggregation functions: With aggregate functions, you can easily identify overall trends of the dataset and these functions will help you to focus on more relevant/meaningful data rather than the whole data.
 
 ## Learning Objectives
 For this week our main focus will be to visualize our data when it's loaded in a Pandas DataFrame. For this, we will be using **matplotlib** and **pandas**. You are familiar with pandas by now but matplotlib is new to you. Therefore, understanding and using the tools provided through matplotlib will be our main focus. By the end of the week you will be able to implement the following ```commands```:
