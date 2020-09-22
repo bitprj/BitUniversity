@@ -1,5 +1,3 @@
-## <div align = "center"> Bit Project </div>
-
 # <div align = "center"> 🌍 Digital History </div>
 
 <p align="center">
