@@ -5,19 +5,19 @@
 ## Recap
 By this point, we have looked into some important steps such as:
 - **Getting started**:
-    - Importing Pandas library: We discussed how you can import built-in libraries.
-    - Loading datasets (.csv files): We discussed how to load datasets and the resulting dataset is a Pandas dataframe.
-    - Setting an index: Setting an index helps you to identify each entity with a meaningful index rather than pre-generated index numbers.
-    - Getting basic info about dataframe: head, describe, info, and columns will provide you a good insight into the dataframe.
+    - Importing Pandas library: We learned how to import built-in libraries into Python.
+    - Loading datasets (.csv files): We learned how to load specific datasets to create a Pandas dataframe.
+    - Setting an index: We learned how setting an index helps you to identify each entity with a meaningful index rather than pre-generated index numbers.
+    - Getting basic info about dataframe: We used functions like head, describe, info, and columns to provide you a good insight into the dataframe.
 - **Cleaning dataset**:
-    - Removing NaN values: We discussed how to remove rows with NaN values. You may set the specific criteria to remove NaN values.
-    - Removing a column: If a column does not provide a meaningful insight, you may remove the colu,m.
-    - Selecting subsets of data: You may select the columns to work with using column locations or column names.
-    - Filtering rows based on criteria: Based on your interest and project, you may set your own criteria to filter the dataset that meets the criteria.
-    - Aggregation functions: With aggregate functions, you can easily identify overall trends of the dataset and these functions will help you to focus on more relevant/meaningful data rather than the whole data.
+    - Removing NaN values: We discussed how to remove rows with NaN values by setting the specific criteria to remove NaN values.
+    - Removing a column: If a column does not provide a meaningful insight, we now know how to remove the column.
+    - Selecting subsets of data: We learned that you can select the columns to work with using column locations or column names.
+    - Filtering rows based on criteria: We learned that based on your interest and project, you can set your own criteria to filter the dataset that meets the criteria.
+    - Aggregation functions: We learned that with aggregate functions, you can easily identify overall trends of the dataset. These functions will help you to focus on more relevant/meaningful data rather than the whole data.
 
 ## Learning Objectives
-For this week our main focus will be to visualize our data when it's loaded in a Pandas DataFrame. For this, we will be using **matplotlib** and **pandas**. You are familiar with pandas by now but matplotlib is new to you. Therefore, understanding and using the tools provided through matplotlib will be our main focus. By the end of the week you will be able to implement the following ```commands```:
+For this week, our main focus will be to visualize our data when it's loaded in a Pandas DataFrame. For this, we will be using **matplotlib** and **pandas**. You are familiar with pandas by now but matplotlib is new to you. Therefore, understanding and using the tools provided through matplotlib will be our main focus. By the end of the week, you will be able to implement the following ```commands```:
 - Understand how  ```pyplot``` works and how you can make customized plots using it.
 - Use ```pandas``` to plot your dataFrame and map columns in the form of useful visualizations.
 - Learn how to load and use Time-Series data using Pandas ```pd.read_csv```
