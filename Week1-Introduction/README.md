@@ -9,7 +9,7 @@ Welcome to Week 1 of the Introduction to Digital History. This is an exciting st
 
 Before we get started, first let's dive into exactly what this course is:
 
-The first class of the weeks consists of discussion and research on about related topics that vary from historical to recently recorded datasets. 
+The first class of the weeks consists of discussion and research on topics that vary from historical to recently recorded datasets. 
 
 The second class of the weeks are meant to help prepare for these discussions. This portion of the course is a venture BitProject and California State Fullerton have begun to introduce the humanities curriculum with modern analytical thinking tools, primarily implemented through programming.
 
@@ -29,7 +29,7 @@ Every week, you will learn a new tool and how to use it effectively. We will do 
 You can reinforce your knowledge by working on graded 'Now Try This' exercises that are included in every tutorial notebook.
 
 ### 📗 Homeworks
-Additionally, you will also have access to homeworks for the 7 Tutorials, these homeworks will be similar to the 'Now Try This' sections.
+Additionally, you will also have access to homework for each of the 7 Tutorials.  These homeworks will be similar to the 'Now Try This' sections.
 
 By the last tutorial, you will be ready and equipped with the complete resources to work through a dataset by utilizing the following skills:
 
@@ -39,11 +39,11 @@ By the last tutorial, you will be ready and equipped with the complete resources
 - Visualize categorical data and perform statistical analysis to draw conclusion.
 - Understand the concept of data modeling.
 
-### 📘 Practicums:
-There are 3 practicums in this course. 
-- Practicum 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
-- Practicum 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
-- Practicum 3 is a two-week final project. This lab will allow you to choose one of the datasets provided and apply the complete data analysis pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
+### 📘 Projects:
+There are 3 major projects in this course. 
+- Project 1 is an individual assignment and requires you to use the concepts learned from Weeks 2,3 and 4. You will be working through the dataset step-by-step to draw insightful information using the resources provided.
+- Project 2 is a group-based assignment which will involve using concepts from Weeks 2 through Weeks 8. For this lab, you will be going more in-depth with the dataset provided and will write a report on your findings.
+- Project 3 is a two-week project meant to allow you to show all that you've learned over the duration of the course. This lab will allow you to choose one of the datasets provided and apply the complete data analysis pipeline from start to end. This will give you an opportunity to document your process and your results, in which you will present a final report that details your conclusions and insights.
 
 ### 📝 Grading:
 #### Tutorials:
@@ -78,12 +78,12 @@ Data analytics is the science of analyzing raw data in order to make conclusions
 
 Data analytics techniques can reveal trends and metrics that would otherwise be lost in the mass of information. This information can then be used to optimize processes to increase the overall efficiency of a business or system.
 
-Without data analysis, we wouldn't be able to advance as fast to the point where were are today. The reason a field such as data analysis is very important is because, in many cases it is better for us to draw conclusions through our own intuition. This is particularly because of our inate ability to simplify complex patterns in order to be able to comprehend them.
+Without data analysis, we wouldn't be able to advance as fast to the point where were are today. The reason a field like data analysis is so important is because in many cases, it is better for us to draw conclusions through our own intuition. This is particularly because of our inate ability to simplify complex patterns in order to be able to comprehend them.
 
 **One known example is of John Snow (Not the Game of Thrones character)**
 ![John Snow](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/imgs/john-snow-map.jpg?raw=true)
 
-John Snow was a British doctor who used data collection and data analysis to trace the source of a cholera outbreak in central London, and to come to the conclusion that cholera was transmitted by “an agent in the water” than by the accepted theory that it was transmitted by “bad air”.  
+John Snow was a British doctor who used data collection and data analysis to trace the source of a cholera outbreak in central London, and to come to the conclusion that cholera was transmitted by “an agent in the water” rather than by the accepted theory that cholera was transmitted by “bad air”.  
 
 Snow used data collection to trace the cholera outbreak to two water companies who drew their water from the Thames river, virtually unfiltered. He notes that a huge, double-blind experiment fell into his lap: “No fewer than three hundred thousand people of both sexes, of every age and occupation, and of every rank and station, from gentlefolks down to the very poor, were divided into two groups without their choice, and, in most cases, without their knowledge; one group being supplied water containing the sewage of London, and amongst it, whatever might have come from the cholera patients, the other group having water quite free from such impurity.” 
 
