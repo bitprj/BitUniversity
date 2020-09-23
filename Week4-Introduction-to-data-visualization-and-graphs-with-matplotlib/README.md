@@ -35,7 +35,7 @@ For this week, our main focus will be to visualize our data when it's loaded in 
   - Find Dense clusters using visualization techniques.
 
 ## About the Datasets
-### Stock Market Index
+### Stock Market Index <img src="https://github.com/ShayanRiyaz/DigitalHistory/blob/master/Week4-Introduction-to-data-visualization-and-graphs-with-matplotlib/assets/wallstreet.png?raw=1" width="300" align="right">
 
 This is a simple introductory dataset. The dataset contains has a shape of 5473 rows and 10 columns. The first row is the header row, therefore the shape of our dataset is (5472,10). The first column is the datetime ranging from 1990 to 2012. The remaining 9 columns are numerical values that indicate the stock prices of companies such as:
 - AA 
@@ -48,7 +48,9 @@ This is a simple introductory dataset. The dataset contains has a shape of 5473 
 - SPX 
 - XOM
 
-### California Housing Information
+### California Housing Information <a name="CaliforniaHousing"></a>
+<img src="https://github.com/ShayanRiyaz/DigitalHistory/blob/master/Week4-Introduction-to-data-visualization-and-graphs-with-matplotlib/assets/california.png?raw=1" width="300" align="right">
+
 This dataset serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables, and is an optimal size datset for beginners.
 
 The data contains information from the 1990 California census. So although it may not help you with predicting current housing prices like the Zillow Zestimate dataset, it does provide an accessible introductory dataset for teaching people about the basics of machine learning.
@@ -67,7 +69,9 @@ The data pertains to the houses found in a given California district and some su
 - median house value
 - ocean_proximity
 
-### Malnutrition
+### Malnutrition <a name="Malnutrition"></a>
+<img src="https://github.com/ShayanRiyaz/DigitalHistory/blob/master/Week4-Introduction-to-data-visualization-and-graphs-with-matplotlib/assets/malnutrition.png?raw=1" width="300" align="right">
+
 Malnutrition continues to be the reason for making children much more vulnerable to diseases and death.
 So, we will analyze a datset regarding this pertinent topic. For context, there are 4 broad types of malnutrition: wasting, stunting, underweight and overweight.
 
