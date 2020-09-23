@@ -69,7 +69,7 @@ The data pertains to the houses found in a given California district and some su
 - median house value
 - ocean_proximity
 
-### Malnutrition <a name="Malnutrition"></a>
+### Malnutrition - Homework <a name="Malnutrition"></a>
 <img src="https://raw.githubusercontent.com/bitprj/DigitalHistory/master/Week4-Introduction-to-data-visualization-and-graphs-with-matplotlib/assets/malnutrition.png?raw=1" width="300" align="right">
 
 Malnutrition continues to be the reason for making children much more vulnerable to diseases and death.
