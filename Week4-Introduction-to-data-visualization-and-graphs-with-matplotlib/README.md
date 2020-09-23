@@ -51,23 +51,23 @@ This is a simple introductory dataset. The dataset contains has a shape of 5473 
 ### California Housing Information <a name="CaliforniaHousing"></a>
 <img src="https://raw.githubusercontent.com/bitprj/DigitalHistory/master/Week4-Introduction-to-data-visualization-and-graphs-with-matplotlib/assets/california.png?raw=1" width="300" align="right">
 
-This dataset serves as an excellent introduction to implementing machine learning algorithms because it requires rudimentary data cleaning, has an easily understandable list of variables, and is an optimal size datset for beginners.
+This dataset serves as an excellent introduction to visualizing simple numerical data. The data contains information from the 1990 California census.
 
-The data contains information from the 1990 California census. So although it may not help you with predicting current housing prices like the Zillow Zestimate dataset, it does provide an accessible introductory dataset for teaching people about the basics of machine learning.
+The following is the data methodology described in the paper where this dataset was published.
 
-**Content**
-The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows (their names are relatively self-explanatory):
+Content The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The columns are as follows, their names are self explanatory:
 
-- longitude
-- latitude
-- housing median age
-- total_rooms
-- total_bedrooms
-- population
-- households
-- median_income
-- median house value
-- ocean_proximity
+-longitude
+-latitude
+-housing median age
+-total_rooms
+-total_bedrooms
+-population
+-households
+-median_income
+-median house value
+-ocean_proximity
+
 
 ### Malnutrition - Homework <a name="Malnutrition"></a>
 <img src="https://raw.githubusercontent.com/bitprj/DigitalHistory/master/Week4-Introduction-to-data-visualization-and-graphs-with-matplotlib/assets/malnutrition.png?raw=1" width="300" align="right">
