@@ -8,14 +8,18 @@ In earlier weeks, we have covered the following concepts in Pandas:
 - Remove NaN values / columns
 - Select subsets of dataset
 - Filter dataset based on criteria
-- Aggregation functions
+- Aggregation functions (```sum```, ```count```, ```mean```)
 
 ## Learning Objectives
 This week, we will cover a more advanced data manipulation using Pandas. 
 
 By the end of the week, you wil be able to implement the following functions and its applications:
 
-- Series (create, sort, access, binary operations)
+- Series 
+    - Create a Series
+    - Sort a Series by indices and values
+    - Access an element using index number and index label
+    - Binary operations
 - Advanced Dataframe
   - Create new columns
   - Sort dataframe
