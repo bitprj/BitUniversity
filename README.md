@@ -36,7 +36,7 @@ Our curriculum is centered around two types of categories:
 ### CheatSheets:
 - [Python](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Python-cheatsheet.pdf)
 - [Pandas](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Pandas-cheatsheet.pdf)
-- Matplotlib
+- [Matplotlib](https://github.com/bitprj/DigitalHistory/blob/master/cheatsheets/Matplotlib-cheatsheet.pdf)
 - NumPy
 - Seaborn
 
@@ -44,7 +44,7 @@ Our curriculum is centered around two types of categories:
 |Week|Category    |Name                                                              |Datasets
 |----|------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |1   |Introduction|Welcome to DigitalHistory                                         |-                                                                                 |
-|2   |Tutorial    |Introduction to Python & NumPy                                    |-                                                                                 |
+|2   |Tutorial    |Introduction to Python                                  |-                                                                                 |
 |3   |Tutorial    |Introduction to open data, importing data and basic data wrangling|[Titanic](https://www.kaggle.com/c/titanic/data) & [US Census Demographic Data](https://www.kaggle.com/muonneutrino/us-census-demographic-data)  |
 |4   |Tutorial    |Introduction to data visualization and graphs with matplotlib    |[California Housing](https://www.kaggle.com/camnugent/california-housing-prices)  |          
 |5   |Lab         |Visualizing the Translatlantic Slave Trade                        |[Trans Atlantic Slave Trade](https://www.slavevoyages.org/voyage/database)        |

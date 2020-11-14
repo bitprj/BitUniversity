@@ -2,8 +2,8 @@
 
 # <div align="center">Visualizing the Transatlantic Slave Trade</div>
 
-## Lab Methodology
-Congratulations you have made it to the first lab of this course. The focus of these labs is to help you learn and apply a structured approach when working on a project. You will be using the tools such as ```pandas```, ```matplotlib``` and ```NumPy``` To explore the dataset. 
+## Practicum Methodology
+Congratulations you have made it to the practicum lab of this course. The focus of these is to help you learn and apply a structured approach when working on a project. You will be using the tools such as ```pandas```, ```matplotlib``` and to explore the dataset. 
 For this we will divide our approach into 4 parts:
 - The first part is the traditional set up every data scientist has to do when starting a project. These inlcude loading datasets, observing the basic numerical analysis of the dataset. 
 - The second part involves cleaning the dataset and choosing columns that fit our methodology.
