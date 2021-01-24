@@ -1,24 +1,24 @@
-<img src="assets/ship.jpg" align="center"> 
+<div align="center"> <img src="assets/ship.jpg"> </div>
 
 # <div align="center">Visualizing the Transatlantic Slave Trade</div>
 
 ## Lab Methodology
-Congratulations you have made it to the first lab of this course. The focus of these labs is to help you learn and apply a structured approach when working on a project. You will be using the tools such as ```pandas```, ```matplotlib``` and ```NumPy``` To explore the dataset. 
-For this we will divide our approach into 4 parts:
-- The first part is the traditional set up every data scientist has to do when starting a project. These inlcude loading datasets, observing the basic numerical analysis of the dataset. 
+Congratulations, you have made it to the first lab of this course. The focus of these labs is to help you learn and apply a structured approach when working on a project. You will be using the tools such as ```pandas```, ```matplotlib``` and ```NumPy``` to explore the dataset. 
+For this, we will divide our approach into 4 parts:
+- The first part is the traditional set up every data scientist has to do when starting a project. This inlcudes loading datasets and observing the basic numerical analysis of the dataset. 
 - The second part involves cleaning the dataset and choosing columns that fit our methodology.
 - The third part involves further splitting our cleaned dataframe into smaller dataframes and visualizing them.
 - Finally, the fourth part involves summarizing our conclusion.
 
 ## Recap
-- By this time, you should have an understanding and practice on how to implement the following:
+- By this point, you should have an understanding and practice on how to implement the following:
 - Loading a Dataset '.csv' as a dataframe using ```pd.read_csv```
 - Observing the properties of the loaded dataset using functions such as:
     - ```pd.head()```
     - ```pd.describe()```
     - ```pd.info()```
 - Modifying the dataset by removing ```NaN``` values.
-- A conceptual understanding of the term ```object``` in DataFrames.
+- Using ```objects``` in DataFrames.
 - Re-indexing columns
 - Visualizing Data using ```matplotlib``` and ```pandas```:
     - Scatter plots
@@ -30,13 +30,13 @@ For this we will divide our approach into 4 parts:
 
 ### The Trans-Atlantic Slave Trade
 
-It is difficult to believe in the first decades of the twenty-first century that just over two centuries ago, for those Europeans who thought about the issue, the shipping of enslaved Africans across the Atlantic was morally indistinguishable from shipping textiles, wheat, or even sugar. Our reconstruction of a major part of this migration experience covers an era in which there was a massive technological change (steamers were among the last slave ships), as well as very dramatic shifts in perceptions of good and evil. Just as important perhaps were the relations between the Western and non-Western worlds that the trade both reflected and encapsulated. Slaves constituted the most important reason for contact between Europeans and Africans for nearly two centuries. The shipment of slaves from Africa was related to the demographic disaster consequent to the meeting of Europeans and Amerindians, which greatly reduced the numbers of Amerindian laborers and raised the demand for labor drawn from elsewhere, particularly Africa. As Europeans colonized the Americas, a steady stream of European peoples migrated to the Americas between 1492 and the early nineteenth century. But what is often overlooked is that, before 1820, perhaps three times as many enslaved Africans crossed the Atlantic as Europeans. This was the largest transoceanic migration of a people until that day, and it provided the Americas with a crucial labor force for their own economic development. The slave trade is thus a vital part of the history of some millions of Africans and their descendants who helped shape the modern Americas culturally as well as in the material sense.
+It is difficult and sad to believe that in the first decades of the twenty-first century that just over two centuries ago, the shipping of enslaved Africans across the Atlantic was morally indistinguishable from shipping textiles, wheat, or even sugar. Our reconstruction of a major part of this migration experience covers an era in which there was a massive technological change (steamers were among the last slave ships), as well as very dramatic shifts in perceptions of good and evil. Just as important to examine is the relationship between the Western and non-Western worlds that the trade both reflected and encapsulated. Slavery constituted the most important reason for contact between Europeans and Africans for nearly two centuries. The shipment of slaves from Africa was in part caused by the demographic disaster due to the meeting of Europeans and Native Americans, which greatly reduced the numbers of Native American laborers and raised the demand for labor drawn from elsewhere, particularly Africa. As Europeans colonized the Americas, a steady stream of European peoples migrated to the Americas between 1492 and the early nineteenth century. But what is often overlooked is that, before 1820, perhaps three times as many enslaved Africans crossed the Atlantic as Europeans. This was the largest transoceanic migration of a people until that day, and it provided the Americas with a crucial labor force for their own economic development. Thus, we must acknowledge the millions of Africans and their descendants who essentially built America, as well as the effects of their journey here.
 
-The details of the more than 36,000 voyages presented here greatly facilitate the study of cultural, demographic, and economic change in the Atlantic world from the late sixteenth to the mid-nineteenth centuries. Trends and cycles in the flow of African captives from specific coastal outlets should provide scholars with new, basic information useful in examining the relationships among slaving, warfare—in both Africa and Europe—political instability, and climatic and ecological change, among other forces. 
+The details of the more than 36,000 voyages presented here greatly facilitate the study of cultural, demographic, and economic change in the Atlantic world from the late sixteenth to the mid-nineteenth centuries. Trends and cycles in the flow of African captives from specific coastal outlets should provide scholars with new, basic information useful in examining the relationships among slavery, warfare—in both Africa and Europe—political instability, and climatic and ecological change, among other forces.
 
 #### Facts about the dataset
 
-- The dataset approximately 36,110 trans-Atlantic voyages.
+- The dataset covers approximately 36,110 trans-Atlantic voyages.
 - The estimates suggest around 12,520,000 captives departed Africa to the Americas. 
 
 - Not all 36,000 voyages in the database carried slaves from Africa.
