@@ -20,7 +20,7 @@ For this week, we will learn the basics of Python and creating basic programs. B
 - Be familar with modules and how to import them into your program.
 
 ## About Python
-<img src="https://github.com/bitprj/DigitalHistory/blob/master/Week2-Introduction-to-Python-_-NumPy/assets/python.png?raw=true" align="center" width="100">&nbsp;
+<img src="https://github.com/bitprj/BitUniversity/blob/master/Digital_History/Week2-Introduction-to-Python-_-NumPy/assets/python.png" align="center" width="100">&nbsp;
 
 Python, which was introduced by Guido van Rossum as a Christmas project, has quickly escalated to become one of the most popular languages of all times. Rossum had an idea in mind — overcome the shortcomings of other programming languages and introduce a language which is simple and easy to read. Rossum also came up with a short and mysterious name Python after the British comedy group Monty Python. 
 
