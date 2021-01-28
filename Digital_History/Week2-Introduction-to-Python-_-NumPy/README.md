@@ -3,15 +3,15 @@
 # <div align="center">Introduction to Python</div>
 
 ## Recap
-By this point we have looked into some important steps such as:
+By this point, we have looked into some important steps such as:
 - What is Data? And it's relevance in our mordern era.
 - Understanding data science and its scope and role in the world.
 - A general outline of what you will be learning throughout this curriculum.
 
-If you want an indepth recap you can read it [here](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/README.md)
+If you want an in-depth recap, you can read it [here](https://github.com/bitprj/DigitalHistory/blob/master/Week1-Introduction/README.md).
 
 ## Learning Objectives
-For this week, we will learn the basics of Python and creating basic programs. By the end of the week you wil be able to do the following:
+For this week, we will learn the basics of Python and creating basic programs. By the end of the week, you will be able to do the following:
 - Recognize and be comfortable with Python syntax.
 - Code along with an example and run a Python application.
 - Be familiar with key Python data structures and associated methods.
@@ -27,11 +27,11 @@ Python, which was introduced by Guido van Rossum as a Christmas project, has qui
 Python is a very popular scripting language that you can use to create applications and programs of all sizes and complexity. It is very easy to learn and has very little syntax, making it very efficient to code with. Python is also the language of choice for many when performing comprehensive data analysis.
 
 ### Non-Tech People Are Now Learning Python
-We have written a lot about how Python has a neat and easy syntax making it quite likeable amid the data science community. The constructs of this language make it easier for a non-technical person to grab it and is definitely one of the easiest programming languages to learn. Even the learners from a non-technical background are taking a liking to the language. 
+As we've noted earlier, Python has a neat and easily understandable syntax, making it very popular among the data science community. In fact, the constructs of this language make it one of the best programming languages to learn when first starting out, especially for non-technical audiences. As such, Python is especially popular among beginner programmers and coders!
 
 
 ### Why Python Wins
-While Python may not be perfect, it has some great features that make it a good common language. For instance, the language in syntactically concise, easy to fiddle with data, customise behaviour at a deeper level, among others. Here are some of the reasons that makes Python a widespread language and a favourite of non-technical people. 
+While Python may not be perfect, it has some great features that make it a good common language. For instance, the language in syntactically concise, easy to work with when it comes to data, easily customizable, etc. All of these reasons and more makes Python an extremely popular and well-liked language. 
 
 
 ## Resources
